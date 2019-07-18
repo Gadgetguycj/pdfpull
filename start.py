@@ -10,10 +10,9 @@ def ORGANIZE_TEXT(text):
     text_length = len(text)
     #Remove double next lines
     for i in range(text_length-4):
-        #If there are two nextlines (/n) next to eachother, remove
-        text.replace("/n/n","/n")
-        #if(text[i:(i+1)=="/n" and text[i+2:(i+3)=="/n")
-
+        #If there are two nextlines (/n) next to eachother, remove the next one
+        if text[i:(i+1)=="/n" and text[i+2:(i+3)=="/n":
+            text[i+2:(i+3)] = ""
         
         text_length = len(text)
 
