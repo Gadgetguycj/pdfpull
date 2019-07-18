@@ -1,16 +1,11 @@
 #Import PDF Reader and OS modules
 import PyPDF2
 import os
-#--Parameters--
-#Adds dividers and lines to make text more readable
-easyparse = False
 
 
 #Organize String into usable text
 def ORGANIZE_TEXT(text):
-    #text = text.encode("utf-8")
-
-
+    print(text)
     
     cleantext = text 
     return cleantext
@@ -24,16 +19,18 @@ def PDF_TO_TEXT(filename):
     total_pages = pdfReader.numPages
     text=""
 
+    #Iterate over PDF pages
     for i in range(total_pages):
         page_object = pdfReader.getPage(i)
         text += page_object.extractText()
 
+    #Send converted text to be cleaned and formatted
     return ORGANIZE_TEXT(text)
 
 
 def WRITE_TEXTFILE(name, location, text):
     #print("Writing "+(location+name))
-    file = open("location"+"converted"+".txt","w+", encoding = "utf-8")
+    file = open(location+name+".txt","w+", encoding = "utf-8")
     file.write(text);
     file.close()
 
