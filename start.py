@@ -1,12 +1,22 @@
 #Import PDF Reader and OS modules
 import PyPDF2
 import os
-
-
+print_out=False
 #Organize String into usable text
 def ORGANIZE_TEXT(text):
-    print(text)
+    if(print_out):
+        print(text.encode("utf-8"))
     
+    text_length = len(text)
+    #Remove double next lines
+    for i in range(text_length-4):
+        #If there are two nextlines (/n) next to eachother, remove
+        text.replace("/n/n","/n")
+        #if(text[i:(i+1)=="/n" and text[i+2:(i+3)=="/n")
+
+        
+        text_length = len(text)
+
     cleantext = text 
     return cleantext
 
