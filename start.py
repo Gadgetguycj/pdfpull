@@ -1,20 +1,37 @@
 #Import PDF Reader and OS modules
 import PyPDF2
 import os
-print_out=False
+
+#Parameters
+parameters=True; #Enable or disable all parameters. Disable for higher performance and lower accuracy.
+enter_condense=True; #Removes erroneous nextlines
+period_condense=True; #Uses period to determine next line
+
+
+
 #Organize String into usable text
 def ORGANIZE_TEXT(text):
+    text_length = len(text)
     if(print_out):
         print(text.encode("utf-8"))
+   
     
-    text_length = len(text)
     #Remove double next lines
     for i in range(text_length-4):
         #If there are two nextlines (/n) next to eachother, remove the next one
-        if text[i:(i+1)=="/n" and text[i+2:(i+3)=="/n":
-            text[i+2:(i+3)] = ""
-        
+        if text[i:(i+1)]=="\n" and text[i+2:(i+3)]=="\n":
+            text = text[:i+1] + text[i+4:]
+        #Adjust length for removed characters
         text_length = len(text)
+
+
+    #Parameters
+    if(parameters):
+        for i in range(text_length-4):
+            if enter_condense and text[i:(i+2)]==" \n":
+            text = text[:i+1] + text[i+4:]
+
+
 
     cleantext = text 
     return cleantext
