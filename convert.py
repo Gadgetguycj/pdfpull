@@ -1,3 +1,4 @@
+#Imports
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
@@ -13,7 +14,6 @@ rough_decode = False #Reliable but innaurate results (Reccomend False)
 parameters = True #Globally enables or disables parameters
 clean_nextline = True #Attempts to catch unnecessary nextlines
 clean_compact = True #Makes text more dense and compact
-
 
 
 #Cleans up text by applying a series of rulesets
