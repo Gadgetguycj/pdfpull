@@ -12,6 +12,7 @@ rough_decode = False #Reliable but innaurate results (Reccomend False)
 #PARAMETERS - A list of configurable paramaters for cleaning up text
 parameters = True #Globally enables or disables parameters
 clean_nextline = True #Attempts to catch unnecessary nextlines
+clean_compact = True #Makes text more dense and compact
 
 
 
@@ -19,6 +20,8 @@ clean_nextline = True #Attempts to catch unnecessary nextlines
 def TEXT_FORMAT(text):
     if(parameters):
         if(clean_nextline):
+            text = text.replace("\n\n\n", "\n\n")
+        if(clean_compact):
             text = text.replace("\n\n", "\n")
     return text
 
