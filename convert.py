@@ -15,7 +15,6 @@ parameters = True #Globally enables or disables parameters
 clean_nextline = True #Attempts to catch unnecessary nextlines
 clean_compact = True #Makes text more dense and compact
 
-
 #Cleans up text by applying a series of rulesets
 def TEXT_FORMAT(text):
     if(parameters):
