@@ -1,0 +1,2721 @@
+ 
+ 
+ 
+
+ 
+
+ 
+Government response 
+to House of Lords 
+Artificial Intelligence 
+Select Committee’s 
+Report on  
+AI in the UK: Ready, 
+Willing and Able? 
+ 
+
+ 
+Presented to Parliament  
+by the Secretary of State for Business, Energy and Industrial 
+Strategy by Command of Her Majesty 
+ 
+June 2018 
+ 
+CM 9645 
+
+ 
+
+ 
+
+1 
+
+ 
+
+ 
+
+2 
+
+ 
+Government response to House of Lords 
+Artificial Intelligence Select Committee’s 
+Report on AI in the UK: Ready, Willing 
+and Able? 
+ 
+ 
+ 
+ 
+ 
+ 
+Presented to Parliament by the Secretary of State for Business, 
+Energy and Industrial Strategy by Command of Her Majesty 
+ 
+ 
+ 
+ 
+ 
+June 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CM 9645 
+
+ 
+
+3 
+
+ 
+
+ 
+
+ 
+ 
+© Crown copyright 2018 
+ 
+This publication is licensed under the terms of the Open Government Licence 
+v3.0 except where otherwise stated. To view this licence, 
+visit nationalarchives.gov.uk/doc/open-government-licence/version/3  
+  
+Where we have identified any third party copyright information you will need to 
+obtain permission from the copyright holders concerned. 
+ 
+This publication is available at www.gov.uk/government/publications  
+ 
+Any enquiries regarding this publication should be sent to us at Department 
+for Business, Energy and Industrial Strategy 
+ 
+Print ISBN 9781474116350 
+Web ISBN 9781474116367 
+ 
+CCS0618948288 
+ 
+Printed on paper containing 75% recycled fibre content minimum 
+ 
+Printed in the UK by the APS Group on behalf of the Controller of Her 
+Majesty’s Stationery Office 
+
+06/18 
+
+ 
+
+4 
+
+House of Lords Select Committee on Artificial Intelligence  
+
+AI in the UK: ready, willing and able? 
+
+Government Response 
+
+Introduction 
+
+ 
+
+1.  The Department for Business, Energy & Industrial Strategy (BEIS), the 
+
+Department for Digital, Culture, Media and Sport, and the Office for Artificial 
+Intelligence welcome the House of Lords Select Committee on Artificial 
+Intelligence’s report, AI in the UK: ready, willing and able? 
+
+2.  The Government recognises the importance of artificial intelligence to the 
+
+UK’s economy, its businesses, public services, its workers and consumers. 
+As an enabling and exponential group of technologies, AI can drive 
+efficiencies, boost productivity and accelerate innovation. It is key to realising 
+the ambitions of the Industrial Strategy and ensuring the UK is at the forefront 
+of existing and future industries.   
+
+3.  As set out in the Industrial Strategy, published in November 2017, Artificial 
+
+Intelligence and the Data Economy are regarded as one of four Grand 
+Challenges, or areas that reflect ‘seismic global change’ to which the UK 
+needs to respond and lead. Government, in coordination with industry and 
+academia, is delivering on this through an Artificial Intelligence Sector Deal as 
+well as through missions, or ambitious goals that seek to address the Grand 
+Challenges. The Sector Deal’s key policies aim to spur funding and 
+investment; support necessary skills; establish essential infrastructure; and 
+support businesses and places across the UK to develop and adopt AI and 
+data technologies. Missions will drive forward innovation across sectors and 
+will target key opportunities with both domestic and global impact. 
+
+4.  The first mission, announced by the Prime Minister on 21 May 2018, seeks to 
+make the UK a world leader in the use of data, AI and innovation to transform 
+the prevention, early diagnosis and treatment of chronic diseases by 2030. 
+Succeeding in this mission will deliver on one of a number of steps necessary 
+towards saving lives and increasing NHS efficiency, reducing the need for 
+costly late stage treatment. 
+
+5.  Applications of artificial intelligence are broad, allowing small and large 
+
+companies alike to develop innovative solutions that can meet needs and 
+create new opportunities. Fundamental to the successful development and 
+application of artificial intelligence is the availability of data, which the 
+Government recognises as essential infrastructure. However, the risks and 
+challenges posed by data aggregation and sharing are also recognised. To 
+address these, the Office for Artificial Intelligence, the future Centre for Data 
+Ethics and Innovation and the AI Council will work together to create Data 
+Trusts. Data Trusts will ensure that the infrastructure is in place, that data 
+governance is implemented ethically, and in such a way that prioritises the 
+safety and security of data and the public. 
+
+ 
+ 
+
+ 
+
+5 
+
+General understanding, engagement and public narratives 
+Recommendation 1 
+ 
+
+i. 
+
+The media provides extensive and important coverage of artificial 
+intelligence, which occasionally can be sensationalist. It is not for the 
+Government or other public organisations to intervene directly in how 
+AI is reported on, nor to attempt to promote an entirely positive view 
+among the general public of its possible implications or impact. Instead, 
+the Government must understand the need to build public trust and 
+confidence in how to use artificial intelligence, as well as explain the 
+risks. (Paragraph 50) 
+
+6.  The Government understands that to successfully address the Grand 
+
+Challenge on AI and Data outlined in the Industrial Strategy white paper, it is 
+critical that trust is engendered through the actions Government takes and the 
+institutions it creates. Working towards a more constructive narrative around 
+AI will harness and build on work already underway through the 
+Government’s Digital Charter. Through the Charter, we aim to ensure new 
+technologies such as AI work for the benefit of everyone – all citizens and all 
+businesses – in the UK. The Government is developing policies and actions 
+that make the UK the safest and fairest place to be online, driving innovation 
+and growth across the economy – helping to shift the debate in a healthier 
+and more productive direction.  
+ 
+
+7.  The Government is also working to:  
+•  Ensure debate and policy-making are sufficiently evidence-based and 
+
+informed by convening experts across sectors;  
+
+•  Build public confidence and trust in AI and data technologies by laying strong 
+
+foundations through the AI institutions Government is setting up – e.g. the 
+Office for AI, the AI Council, and the Centre for Data Ethics and Innovation 
+•  Equip individuals and businesses with the tools and skills to engage in and 
+
+benefit from AI, and act as more informed decision-makers;  
+
+•  Be transparent and accessible to industry and public scrutiny.  
+
+8.  The Centre for Data Ethics and Innovation will deliver its work through 
+
+extensive engagement with civil society and the public, as well as industry 
+and regulators (particularly the Information Commissioner’s Office and 
+consumer protection and competition bodies). It will seek to ensure that 
+governance measures are aligned with and respond to public concerns 
+around data driven technologies, and address businesses’ needs for greater 
+clarity and certainty around data use. It will do so while ensuring the UK 
+continues to meet the EU data protection ‘adequacy’ standard that enables 
+the free flow of personal data between the two jurisdictions. It will draw on 
+and commission research and analysis to fully understand the nature and 
+impacts of data and AI. 
+ 
+
+ 
+
+Everyday engagement with AI 
+Recommendations 2-3 
+ 
+
+ii.  Artificial intelligence is a growing part of many people’s lives and 
+
+businesses. It is important that members of the public are aware of how 
+and when artificial intelligence is being used to make decisions about 
+
+ 
+
+6 
+
+them, and what implications this will have for them personally. This 
+clarity, and greater digital understanding, will help the public experience 
+the advantages of AI, as well as to opt out of using such products 
+should they have concerns. (Paragraph 58) 
+
+iii. 
+
+Industry should take the lead in establishing voluntary mechanisms for 
+informing the public when artificial intelligence is being used for 
+significant or sensitive decisions in relation to consumers. This 
+industry-led approach should learn lessons from the largely ineffective 
+AdChoices scheme. The soon-to-be established AI Council, the 
+proposed industry body for AI, should consider how best to develop 
+and introduce these mechanisms. (Paragraph 59) 
+
+9.  The Government fully supports innovative uses of data where it is used safely 
+
+and responsibly. The General Data Protection Regulation (GDPR), which is 
+being brought into UK law through the Data Protection Act 2018, will support 
+automated processing including the use of personal data in artificial 
+intelligence and machine learning. 
+ 
+
+10. The Data Protection Act 2018 reflects the need to ensure there are stringent 
+provisions in place to appropriately regulate automated processing. The Act 
+includes the necessary safeguards such as the right to be informed of 
+automated processing as soon as possible and also the right to challenge an 
+automated decision made by a data controller or processor. 
+ 
+
+11. Individuals should not be subject to a decision based solely on automated 
+processing if that decision significantly and adversely impacts them, either 
+legally or otherwise, unless required by law. 
+ 
+
+12. If a decision based solely on automated processing is required by law, the Act 
+specifies safeguards that controllers should apply to ensure the impact on the 
+individual is minimised. This includes informing the data subject that a 
+decision has been taken and provides them with 21 days to ask the controller 
+to reconsider the decision or retake the decision with human intervention. 
+
+13. Informing the public of how and when AI is being used to make decisions 
+
+about them, and what implications this will have for them personally will be 
+raised with the new Artificial Intelligence Council. At present, this decision will 
+be left to individual businesses to decide on whether and in what way to 
+inform consumers of AI’s deployment. Should a regulatory requirement be 
+introduced, it will be done so in consultation with relevant industry bodies, 
+businesses, regulators, and Government departments. 
+ 
+
+14. The terms and proposed members of the AI Council are currently being 
+
+considered by Government. Issues regarding ‘opt-outs’ will be flagged with 
+the Council upon its establishment. 
+
+7 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Designing artificial intelligence 
+Access to, and control of, data 
+Recommendations 4-10 
+ 
+
+iv. The Government plans to adopt the Hall-Pesenti Review 
+recommendation that ‘Data Trusts’ be established to facilitate the 
+ethical sharing of data between organisations. However, under the 
+current proposals, individuals who have their personal data contained 
+within these trusts would have no means by which they could make 
+their views heard, or shape the decisions of these trusts. We therefore 
+recommend that as Data Trusts are developed under the guidance of the 
+Centre for Data Ethics and Innovation, provision should be made for the 
+representation of people whose data is stored, whether this be via 
+processes of regular consultation, personal data representatives, or 
+other means. (Paragraph 82) 
+ 
+
+15. Government is currently exploring data sharing frameworks such as Data 
+
+Trusts – mechanisms where parties have defined rights and responsibilities 
+with respect to shared data – in order to protect sensitive data, facilitate 
+access to data, and ensure accountability. During this process we will 
+consider how best to develop governance structures that would include 
+representation of those individuals and organisations concerned.  
+ 
+v. Access to data is essential to the present surge in AI technology, and 
+there are many arguments to be made for opening up data sources, 
+especially in the public sector, in a fair and ethical way. Although a ‘one-
+size-fits-all’ approach to the handling of public sector data is not 
+appropriate, many SMEs in particular are struggling to gain access to 
+large, high-quality datasets, making it extremely difficult for them to 
+compete with the large, mostly US owned technology companies, who 
+can purchase data more easily and are also large enough to generate 
+their own. In many cases, public datasets, such as those held by the 
+NHS, are more likely to contain data on more diverse populations than 
+their private sector equivalents, and more control can be exercised 
+before they are released. (Paragraph 83) 
+
+16. The Government wants to ensure that digital markets work for everyone – for 
+
+citizens, businesses and society as a whole. It is important to ensure 
+innovative start-ups and SMEs are not held back by not being able to access 
+data (including non-personal data and, where consent is explicitly given, 
+personal data) to build AI systems because they do not have the negotiating 
+power or capacity of larger organisations. It may be important to take 
+measures to make access to public data more equitable, provided appropriate 
+safeguards are put in place. For example, Data Trusts could help SMEs pool 
+resources to rationalise access to data and work together to preprocess data 
+– allowing them to compete with more established firms. In so doing, a 
+healthier AI and data business ecosystem could be fostered.  
+
+17. The Government is also considering mechanisms and terms for data sharing. 
+For example, Government is exploring how sharing data will allow access to a 
+wider pool of data and recognises that requirements and arrangements for 
+doing so will vary. 
+
+8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vi. We recommend that wherever possible and appropriate, and with 
+regard to its potential commercial value, publicly-held data be made 
+available to AI researchers and developers. In many cases, this will 
+require Government departments and public organisations making a 
+concerted effort to digitise their records in unified and compatible 
+formats. When releasing this data, subject to appropriate anonymisation 
+measures where necessary, Data Trusts will play an important role. 
+(Paragraph 84) 
+
+18. Government departments already publish open data – including many 
+
+thousands of datasets on departmental spend, environmental and agricultural 
+data, and transport, to name but a few categories. Such datasets are used to 
+build services and applications; some businesses build their services entirely 
+on open Government data. 
+ 
+
+19. However, the Government recognises that there is work to be done in order to 
+ensure the quality of published data is of the highest calibre – including that it 
+is in a commonly accessible and machine readable format, and conforms to 
+metadata standards – both of which reduce friction in access and use, 
+including by the AI community. In December 2017 the Prime Minister sent a 
+letter to Departments asking them to improve the quantity and quality of data 
+that they make open. We recognise that continued engagement of 
+Departments on this agenda is crucial. There are examples of innovative 
+organisational models providing access to restricted data, such as around 
+geospatial data or education data, through data labs. Government 
+departments should continue to engage with such models, and with best 
+practice on publishing high-quality open data, in order to provide access to 
+more, better quality, timely, and machine readable open data when the data is 
+non-personal. When data includes personal data, it may be necessary to use 
+mechanisms such as secondment of appropriately vetted staff into data 
+holding Departments.  
+
+vii. We support the approach taken by Transport for London, who have 
+released their data through a single point of access, where the data is 
+available subject to appropriate terms and conditions and with controls 
+on privacy. The Centre for Data Ethics and Innovation should produce 
+guidance on similar approaches. The Government Office for AI and 
+GovTech Catalyst should work together to ensure that the data for 
+which there is demand is made available in a responsible manner. 
+(Paragraph 85) 
+
+20. Government is supportive of an approach that makes key datasets available 
+
+for businesses and other organisations to innovate with. This could be 
+achieved by a number of means, including through portals and, increasingly 
+preferred, via APIs. The Office for Artificial Intelligence is working with the 
+GovTech Catalyst on driving adoption across sectors and will be made 
+available for data innovation as appropriate. 
+
+viii. We acknowledge that open data cannot be the last word in making 
+data more widely available and usable, and can often be too blunt an 
+instrument for facilitating the sharing of more sensitive or valuable data. 
+Legal and technical mechanisms for strengthening personal control 
+
+9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+over data, and preserving privacy, will become increasingly important 
+as AI becomes more widespread through society. Mechanisms for 
+enabling individual data portability, such as the Open Banking initiative, 
+and data sharing concepts such as Data Trusts, will spur the creation of 
+other innovative and context-appropriate tools, eventually forming a 
+broad spectrum of options between total data openness and total data 
+privacy. (Paragraph 86) 
+
+ix. We recommend that the Centre for Data Ethics and Innovation 
+investigate the Open Banking model, and other data portability 
+initiatives, as a matter of urgency, with a view to establishing similar 
+standardised frameworks for the secure sharing of personal data 
+beyond finance. They should also work to create, and incentivise the 
+creation of, alternative tools and frameworks for data sharing, control 
+and privacy for use in a wide variety of situations and contexts. 
+(Paragraph 87) 
+
+21. The Government’s recent green paper Modernising Consumer Markets set 
+
+out our ambition to support the implementation of data portability in regulated 
+markets to strengthen competition and help consumers find the best deal for 
+them.1 The paper announced that the Government will launch a “Smart Data 
+Review” to identify the lessons learned from existing data portability 
+initiatives, and consider how the approach of Open Banking can be 
+implemented in other regulated markets. 
+ 
+x. Increasingly, public sector data has value. It is important that public 
+organisations are aware of the commercial potential of such data. We 
+recommend that the Information Commissioner’s Office work closely 
+with the Centre for Data Ethics and Innovation in the establishment of 
+Data Trusts, and help to prepare advice and guidance for data 
+controllers in the public sector to enable them to estimate the value of 
+the data they hold, in order to make best use of it and negotiate fair and 
+evidence-based agreements with private-sector partners. The values 
+contained in this guidance could be based on precedents where public 
+data has been made available and subsequently generated commercial 
+value for public good. The Information Commissioner’s Office should 
+have powers to review the terms of significant data supply agreements 
+being contemplated by public bodies. (Paragraph 88) 
+
+22. The Government recognises that data is the infrastructure for artificial 
+
+intelligence – providing a fundamental framework for AI systems to function. 
+The Committee is right to identify the potential commercial value of public 
+sector data as well as its role in supporting the development of artificial 
+intelligence products. Government recognises that innovative and valuable 
+services can be built with public sector data – from public transport 
+applications, to having a clearer picture of flood risk for emergency services, 
+insurers and citizens. We are committed to supporting and growing digital 
+businesses, and understand that open data offers a powerful way to speed up 
+the development of ecosystems around specific technologies and sectors.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                            
+1 https://www.gov.uk/government/consultations/consumer-green-paper-modernising-consumer-
+markets 
+
+10 
+
+ 
+
+23. Where personal data is concerned, understanding potential commercial value 
+
+of services built on top of the data could inform negotiating strategies, if 
+balanced alongside ethical considerations such as proportionality, privacy and 
+public benefit. It will be critical for public trust in data sharing that we ensure 
+equitable and proportionate access to data generated by the public sector. 
+Further research is required to understand what model(s) are appropriate in 
+different contexts. It may be important to impose conditions towards fostering 
+a more equitable market for innovation to avoid the development of ‘data 
+monopolies’. Government is exploring whether the process of data use – not 
+the data itself, which may be personal – should be made transparent as a 
+condition of access to data. We would want to test whether this promotes 
+public trust and innovation, or impedes reuse of valuable public data. 
+ 
+
+24. The Office for Artificial Intelligence, and the Centre for Data Ethics and 
+Innovation and the AI Council in consultation with relevant Government 
+departments will explore ways in which public data can be utilised by diverse 
+businesses, including SMEs in a fair way. Government believes that the 
+equitable access to public data should be prioritised so as not to privilege any 
+single business or group of businesses. Data should be viewed as an enabler 
+to businesses. 
+
+ 
+Intelligible AI 
+Recommendations 11-13 
+ 
+
+xi. Based on the evidence we have received, we believe that achieving 
+full technical transparency is difficult, and possibly even impossible, for 
+certain kinds of AI systems in use today, and would in any case not be 
+appropriate or helpful in many cases. However, there will be particular 
+safety-critical scenarios where technical transparency is imperative, and 
+regulators in those domains must have the power to mandate the use of 
+more transparent forms of AI, even at the potential expense of power 
+and accuracy. (Paragraph 99) 
+
+xii. We believe that the development of intelligible AI systems is a 
+fundamental necessity if AI is to become an integral and trusted tool in 
+our society. Whether this takes the form of technical transparency, 
+explainability, or indeed both, will depend on the context and the stakes 
+involved, but in most cases we believe explainability will be a more 
+useful approach for the citizen and the consumer. This approach is also 
+reflected in new EU and UK legislation. We believe it is not acceptable to 
+deploy any artificial intelligence system which could have a substantial 
+impact on an individual’s life, unless it can generate a full and 
+satisfactory explanation for the decisions it will take. In cases such as 
+deep neural networks, where it is not yet possible to generate thorough 
+explanations for the decisions that are made, this may mean delaying 
+their deployment for particular uses until alternative solutions are 
+found. (Paragraph 105) 
+
+xiii. The Centre for Data Ethics and Innovation, in consultation with the 
+Alan Turing Institute, the Institute of Electrical and Electronics 
+Engineers, the British Standards Institute and other expert bodies, 
+should produce guidance on the requirement for AI systems to be 
+intelligible. The AI development sector should seek to adopt such 
+
+11 
+
+ 
+
+ 
+
+ 
+
+25. 
+
+26. 
+
+27. 
+
+28. 
+
+guidance and to agree upon standards relevant to the sectors within 
+which they work, under the auspices of the AI Council. (Paragraph 106) 
+ 
+Government believes that transparency of algorithms is important, but for 
+development of AI an overemphasis on transparency may be both a deterrent 
+and is some cases such as deep learning prohibitively difficult. Such 
+considerations need to be balanced against positive impacts use of AI brings. 
+ 
+With respect to AI and data technologies’ application to health, Government 
+believes that given the likely benefits that would accrue to patients and 
+providers from this technology, we must carefully weigh this against the 
+requirement for transparency. Over-emphasis on transparency could deter 
+the use of AI, and in doing so, could deny patients access to an important 
+component of their care. Anything we do in this area will link strongly to, and 
+depend on, effective communication with patients and health and care 
+professionals. 
+ 
+DHSC in particular has some concerns with the broad scope of this 
+recommendation. Many of the most important applications of AI in health and 
+care, including diagnostics, will rely on deep learning techniques, and 
+acceptance of this recommendation risks cutting across ongoing programmes 
+of work.  
+ 
+DHSC’s recommended approach is to focus on techniques that can mitigate 
+or bypass the black box problem, including the use of counterfactuals and 
+explanation of the weighting of the different inputs considered by an 
+algorithm. This will depend on effective communication with patients and 
+health and care professionals, and ensuring that patients continue to be able 
+to give informed consent for any treatment provided. Use of AI technologies 
+should augment human expertise in the diagnosis and treatment of disease, 
+and in other sectors where the AI could have an impact on human life. 
+
+ 
+Addressing prejudice 
+Recommendations 14 - 16 
+ 
+
+xiv. We are concerned that many of the datasets currently being used to 
+train AI systems are poorly representative of the wider population, and 
+AI systems which learn from this data may well make unfair decisions 
+which reflect the wider prejudices of societies past and present. While 
+many researchers, organisations and companies developing AI are 
+aware of these issues, and are starting to take measures to address 
+them, more needs to be done to ensure that data is truly representative 
+of diverse populations, and does not further perpetuate societal 
+inequalities. (Paragraph 119) 
+
+xv. Researchers and developers need a more developed understanding 
+of these issues. In particular, they need to ensure that data is pre-
+processed to ensure it is balanced and representative wherever 
+possible, that their teams are diverse and representative of wider 
+society, and that the production of data engages all parts of society. 
+Alongside questions of data bias, researchers and developers need to 
+consider biases embedded in the algorithms themselves --human 
+
+12 
+
+ 
+
+ 
+
+ 
+
+developers set the parameters for machine learning algorithms, and the 
+choices they make will intrinsically reflect the developers’ beliefs, 
+assumptions and prejudices. The main ways to address these kinds of 
+biases are to ensure that developers are drawn from diverse gender, 
+ethnic and socio-economic backgrounds, and are aware of, and adhere 
+to, ethical codes of conduct. (Paragraph 120) 
+
+xvi. We recommend that a specific challenge be established within the 
+Industrial Strategy Challenge Fund to stimulate the creation of 
+authoritative tools and systems for auditing and testing training 
+datasets to ensure they are representative of diverse populations, and 
+to ensure that when used to train AI systems they are unlikely to lead to 
+prejudicial decisions. This challenge should be established 
+immediately, and encourage applications by spring 2019. Industry must 
+then be encouraged to deploy the tools which are developed and could, 
+in time, be regulated to do so. (Paragraph 121) 
+ 
+
+29. Government recognises that one of the risks of automated decision-making is 
+
+that the datasets which the algorithms learn from may reflect the structural 
+inequalities of the society from which data are collected and that this can lead 
+to the encoding of unintentional bias. We will work to ensure that those 
+developing and deploying AI systems are aware of these risks, and the trade-
+offs and options for mitigation are understood. It is important that multiple 
+perspectives and insights are represented during the development, 
+deployment and operation of algorithms. To this end, we will work the Alan 
+Turing Institute, which has been working to address these issues.  
+ 
+
+30. We will also work to augment the AI workforce to ensure diversity by training, 
+
+attracting and retaining a diverse talent pool in terms of gender, ethnic and 
+socio-economic backgrounds, and will work to mitigate and counter the 
+effects of unconscious bias through these endeavours. 
+
+ 
+Data monopolies 
+Recommendation 17 
+ 
+
+xvii. While we welcome the investments made by large overseas 
+technology companies in the UK economy, and the benefits they bring, 
+the increasing consolidation of power and influence by a select few 
+risks damaging the continuation, and development, of the UK’s thriving 
+home-grown AI start-up sector. The monopolisation of data 
+demonstrates the need for strong ethical, data protection and 
+competition frameworks in the UK, and for continued vigilance from the 
+regulators. We urge the Government, and the Competition and Markets 
+Authority, to review proactively the use and potential monopolisation of 
+data by the big technology companies operating in the UK. (Paragraph 
+129) 
+
+31. The CMA understands both the importance of data, and risks outlined by the 
+
+committee. It has identified online markets and the digital economy as a 
+priority area in their 2018/19 Annual Plan. The Government’s recently 
+published Modernising Consumer Markets Green Paper also contains a 
+strong focus on digital markets including online platforms. It identifies a 
+number of potential competition issues and seeks views on the use and 
+
+13 
+
+  
+
+ 
+
+effectiveness of the UK’s competition legislative powers in the context of 
+digital markets. The CMA will actively engage in this review. 
+
+  
+
+32. More broadly, the CMA is aware of the debate around access to data being 
+
+important to innovation in AI and in digital markets generally, and the 
+Committee’s report makes a useful contribution to this debate. The CMA is 
+actively exploring where it can be of most value in this space and therefore 
+welcomes the Committee’s report 
+ 
+
+33. The powers that the CMA has are that it is able to stop anti-competitive 
+
+agreements or abuses of a dominant position within a market. The CMA is 
+able to prohibit mergers which meet certain jurisdictional tests. It can protect 
+the welfare of consumers by enforcing consumer protection regulations. 
+Finally, they can take a broad examination of entire markets through their 
+market study and market investigation powers and have strong remedial 
+powers. 
+ 
+
+34. The CMA is building a new technology team to strengthen its ability to keep 
+
+pace with the use of algorithms, artificial intelligence and big data in business. 
+The team will be made up of data scientists, computer experts and 
+economists. A new position of Chief Data and Digital Insights Officer has 
+been created and the appointment just made to lead the team to develop and 
+deliver an effective data and digital insight strategy in order to allow the CMA 
+to better understand the impact that data, machine learning and other 
+algorithms have on markets and people. 
+ 
+
+35. The CMA is working closely with colleagues across Government and in the 
+European Commission on various regulatory initiatives and on considering 
+how user data can be harnessed to improve outcomes for consumers. The 
+CMA is also in close contact with its international colleagues regarding their 
+work on digital markets and big data. 
+
+  
+Developing artificial intelligence 
+Investment in AI development 
+Recommendations 18 - 21 
+ 
+
+xviii. The UK AI development sector has flourished largely without 
+attempts by the Government to determine its shape or direction. This 
+has resulted in a flexible and innovative grassroots start-up culture, 
+which is well positioned to take advantage of the unpredictable 
+opportunities that could be afforded by AI. The investment environment 
+for AI businesses must be able to cope with this uncertainty, and be 
+willing to take the risks required to seize the chances AI offers. 
+(Paragraph 135) 
+
+xix.  We welcome the changes announced in the Autumn Budget 2017 to 
+the Enterprise Investment and Venture Capital Trust schemes which 
+encourage innovative growth, and we believe they should help to boost 
+investment in UK-based AI companies. The challenge for start-ups in 
+the UK is the lack of investment available with which to scale up their 
+businesses. (Paragraph 150) 
+
+14 
+
+ 
+
+ 
+
+ 
+
+xx. To ensure that AI start-ups in the United Kingdom have the 
+opportunity to scale up, without having to look for off-shore investment, 
+we recommend that a proportion of the £2.5 billion investment fund at 
+the British Business Bank, announced in the Autumn Budget 2017, be 
+reserved as an AI growth fund for SMEs with a substantive AI 
+component, and be specifically targeted at enabling such companies to 
+scale up. Further, the Government should consult on the need to 
+improve access to funding within the UK for SMEs with a substantive AI 
+component looking to scale their businesses. (Paragraph 151). 
+
+xxi. To guarantee that companies developing AI can continue to thrive 
+in the UK, we recommend that the Government review the existing 
+incentives for businesses operating in the UK who are working on 
+artificial intelligence products, and ensure that they are adequate, 
+properly promoted companies, and designed to assist SMEs wherever 
+possible. (Paragraph 152) 
+
+36. Government’s Autumn Budget 2017 and the Industrial Strategy published in 
+
+November 2017 both highlight the importance of investment in the 
+technologies of the future and to ensure every part of the UK can share in the 
+rewards. This includes artificial intelligence, amongst other technologies. A 
+key Government commitment to this end is increasing R&D investment by a 
+further £2.3bn in 2021-22 from the NPIF, and increasing the R&D expenditure 
+credit to 1.2%, demonstrating clear progress towards the Government’s 
+ambition to raise the level of investment in R&D in the economy to 2.4% of 
+GDP. 
+ 
+
+37. Further policies aligned with increasing investment in innovative and 
+
+knowledge-intensive businesses, including artificial intelligence, include: 
+
+•  establishing a new £2.5bn Investment fund. By co-investing with the private 
+
+sector, a total of £7.5bn of investment will be unlocked;  
+
+•  doubling the annual allowance for people investing in knowledge-intensive 
+
+companies through the Enterprise Investment Scheme (EIS) and the annual 
+investment those companies can receive through EIS and the Venture Capital 
+Trust scheme, together unlocking over £7bn of growth investment; 
+investing in a series of private sector fund of funds of scale, supporting a total 
+of up to £4bn of investment; 
+
+• 
+
+•  backing new and emerging fund managers, unlocking at least £1.5bn of new 
+
+investment; 
+
+•  backing overseas investment in UK VC through the Department of 
+
+International Trade, expected to unlock £1bn of investment; 
+
+•  working with the Pensions Regulator to clarify investment guidance for 
+
+trustees to give pension funds confidence to invest in assets supporting 
+innovative firms as part of a diverse portfolio; and  
+
+•  changing the qualifying rules of Entrepreneurs’ Relief. 
+
+38. Additionally, Government’s Industrial Strategy Challenge Fund Wave 2 has 
+
+secured funding allocations. This includes the Quantum Pioneer programme, 
+comprised of a £20m Collaborative Research and Development competition 
+aimed at delivering working prototype devices with project sizes expected to 
+be approximately £3m-10m. 
+ 
+
+15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+39. Government agrees that EIS, VCT, and the £2.5bn Investment Fund will 
+
+support businesses working on artificial intelligence technologies. Both sets of 
+policies, however, are sector agnostic. With respect to the Investment Fund, 
+this means that the new £2.5bn patient capital investment fund is sector 
+agnostic and demand-led and so it cannot be reserved or apportioned to 
+particular business sectors or technologies. The British Business Bank will 
+issue a “Request for Proposals” and it is for venture and investment funds to 
+prepare proposals in response and approach British Patient Capital within the 
+Bank for support for their proposed fund. As such investment arising through 
+both EIS, VCT, and the Investment Fund neither prioritises nor disfavours any 
+particular sector.  
+
+ 
+Turning academic research into commercial potential  
+Recommendations 22-23 
+ 
+
+xxii. The UK has an excellent track record of academic research in the 
+field of artificial intelligence, but there is a long-standing issue with 
+converting such research into commercially viable products (Paragraph 
+159) 
+
+xxxiii. To address this we welcome, and strongly endorse, the 
+recommendation of the Hall-Pesenti Review, which stated “universities 
+should use clear, accessible and where possible common policies and 
+practices for licensing IP and forming spin-out companies”. We 
+recommend that the Alan Turing Institute, as the National Centre for AI 
+Research, should develop this concept into concrete policy advice for 
+universities in the UK, looking to examples from other fields and from 
+other nations, to help start to address this long-standing problem. 
+(Paragraph 160) 
+
+ 
+
+ 
+
+40. Government agrees that it is important that the UK should capture the 
+
+economic benefits of the public investment in academic research in all areas, 
+including those associated with the field of artificial intelligence. 
+ 
+
+41. Latest evidence from “Research into issues around the commercialisation of 
+
+university intellectual property (IP)” published in April 2018 recognised the 
+diversity of opportunities and issues that could not be accommodated within a 
+“one size fits all” approach (a conclusion which also emerged from an earlier 
+review of University Tech Transfer published in 2016).2 It concluded that 
+“approaches taken to knowledge exchange and the commercialisation of 
+university intellectual property are working reasonably well”, although there 
+are “a number of specific constraints, barriers and pinch-points”, and that 
+“there is potentially scope to do more”.  
+ 
+
+42. The research highlights a potential need for further training, guidance on 
+
+practices that help reduce complexity for all involved in the commercialisation 
+process, and a need for greater transparency on university policies, in broad 
+terms, to streamline the negotiation process and help manage expectations 
+among partners. 
+ 
+
+                                            
+2 https://www.gov.uk/government/publications/commercialisation-of-university-intellectual-property 
+
+16 
+
+ 
+
+43. The Government agrees that universities should set out clearly their principles 
+
+• 
+
+• 
+
+• 
+
+• 
+
+and approach to handling IP, including licensing IP and for supporting IP-
+based spin-out and other start-up companies. The Government also 
+recognises that AI is not a homogenous activity but one with great diversity in: 
+the application (from being a component of a product or service through to a 
+"pure AI" activity); 
+the particular discipline (which ranges from STEM to arts, humanities and 
+social sciences); 
+the channel or approach for commercialisation (from an IP-based academic 
+spin out to alumni start-up either soon or a long time after graduation); and 
+the origin of the opportunity (which may arise through a lone inventor, a post-
+doc or researcher benefiting from the ideas and experience of a research 
+group, through to the culmination of long sustained investment in an active 
+research group).  
+
+44. The Government has appointed the Alan Turing Institute as the national 
+institute for data science and artificial intelligence – bringing together the 
+capabilities of leading universities across the UK. We would encourage the 
+Turing Institute to use its expertise in the application of data science and AI, 
+along with its existing and future collaborations to work with and support its 
+founding and partner universities to identify and progress the range of 
+opportunities for commercialisation emerging from their work. 
+
+45. As  well  as  increased  support  for  the  application  and  commercialisation  of 
+research  through  the  c.  £1.7bn  Industrial  Strategy  Challenge  Fund,  the 
+Government  is  improving  the  incentives,  support,  processes  and  skills  that 
+enable  the  flow  of  knowledge  and  ideas  around  society,  and  increase 
+opportunities for research commercialisation, including: 
+
+  
+
+  
+
+•  Research England is developing a new Knowledge Exchange Framework - to 
+benchmark how well universities in England are doing at fostering knowledge 
+sharing  and 
+licensing 
+intellectual property and creating IP based spin-outs; 
+
+research  commercialisation, 
+
+including 
+
+through 
+
+•  The  Knowledge  Exchange  Champion  (Trevor  McMillan,  VC  of  Keele 
+University)  is  developing  a  “Knowledge  Exchange  Concordat”,  which  will 
+encourage  leaders  of  universities  to  commit  to  a  set  of  principles  and  a 
+process  of  continuous  improvement  to  increase  the  effectiveness  of  their 
+knowledge exchange activities; and  
+
+•  Higher  Education  Innovation  Funding  will  increase  to  £250m  pa  by  2021  to 
+support  universities  to  work  with  businesses  and  others  to  innovate  and 
+commercialise  research,  and  the  £100m  Connecting  Capability  Fund  is 
+supporting  universities  in  England  to  collaborate  together,  to  pool  capability 
+and  to  share  good  practices  in  IP  commercialisation  and  in  working  with 
+business.3 
+
+ 
+ 
+ 
+
+                                            
+3  https://www.gov.uk/Government/publications/commercialisation-of-university-intellectual-
+property 
+ 
+
+17 
+
+ 
+
+ 
+ 
+
+Improving access to skilled AI developers 
+Recommendations 24 – 30 
+ 
+
+ xxiv. We welcome the expanded public funding for PhD places in AI and 
+machine learning, as well as the announcement that an industry-funded 
+master’s degree programme is to be developed. We do believe that 
+more needs to be done to ensure that the UK has the pipeline of skills it 
+requires to maintain its position as one of the best countries in the 
+world for AI research. (Paragraph 168) 
+
+xxv. We recommend that the funding for PhD places in AI and machine 
+learning be further expanded, with the financial burden shared equally 
+between the public and private sector through a PhD matching scheme. 
+We believe that the Doctoral Training Partnership scheme and other 
+schemes where costs are shared between the private sector, 
+universities and research councils should be examined, and the number 
+of industry-sponsored PhDs increased. (Paragraph 169) 
+
+xxvi. We further recommend that short (3–6 months) post-graduate 
+conversion courses be developed by the Alan Turing Institute, in 
+conjunction with the AI Council, to reflect the needs of the AI 
+development sector. Such courses should be suitable for individuals in 
+other academic disciplines looking to transfer into AI development and 
+design or to have a grounding in the application of AI in their discipline. 
+These should be designed so as to enable anyone to retrain at any 
+stage of their working lives. (Paragraph 170) 
+
+xxvii. We recommend that the Government ensures that publicly-funded 
+PhDs in AI and machine learning are made available to a diverse 
+population, more representative of wider society. To achieve this, we 
+call for the Alan Turing Institute and Government Office for AI to devise 
+mechanisms to attract more female and ethnic minority students from 
+academic disciplines which require similar skillsets, but have more 
+representative student populations, to participate in the Government-
+backed PhD programme. (Paragraph 174) 
+
+xxviii. We acknowledge the considerable scepticism of at least some 
+technology companies who believe that the apprenticeship levy is of 
+little use to them, despite the success that others in the sector have had 
+with apprenticeships. The Government should produce clear guidance 
+on how the apprenticeship levy can be best deployed for use in the 
+technology sector, in particular in SMEs and start-ups. (Paragraph 175) 
+
+xxix. The Government’s announcement that it will increase the annual 
+number of Tier 1 (exceptional talent) visas from 1,000 to 2,000 per year 
+is welcome. While top-tier PhD researchers and designers are required, 
+a thriving AI development sector is also dependent on access to those 
+able to implement artificial intelligence research, whose occupations 
+may fall short of the exceptional talent requirements. (Paragraph 181) 
+
+xxx. We are concerned that the number of workers provided for under 
+the Tier 1 (exceptional talent) visa scheme will be insufficient and the 
+
+18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+requirements too high level for the needs of UK companies and start-
+ups. We recommend that the number of visas available for AI 
+researchers and developers be increased by, for example, adding 
+machine learning and associated skills to the Tier 2 Shortage 
+Occupations List. (Paragraph 182) 
+
+46.  Increasingly, employers in the technology sector understand the benefits of 
+
+apprenticeships to build the skills of their workforce, including at higher levels. 
+In terms of apprenticeship funding, levy paying employers can now transfer 
+up to 10% of their funds to other employers to support new apprenticeships. 
+SMEs and start-ups in the technology sector could benefit from receiving 
+transferred funds from levy paying employers to fund new apprenticeships in 
+their businesses. 
+ 
+
+47. The Education and Skills Funding Agency (ESFA) has responsibility for 
+
+proactively engaging with and supporting over 17,000 levy paying employers 
+and 1.49m non-levy paying employers. Government will work with ESFA to 
+ensure guidance is accessible and clear.  
+ 
+
+48. The Government has a long-term commitment to enhance support for 
+
+postgraduate study. This will make the UK more globally competitive by 
+increasing the supply of individuals with high-level skills and knowledge. From 
+summer 2016, we introduced postgraduate master’s degree loans for both 
+taught and research-based. We intend to expand this further by introducing 
+new loans for doctoral study from academic year 2018/19. In 2016/17, around 
+63,600 students on master’s courses were paid £502 million in postgraduate 
+loans. HESA’s official student enrolment data for 2016/17 show that there 
+was a 15% increase in full-time postgraduate entrants in taught masters in 
+England – the first year that the master’s loan was made available. 
+
+49. We have announced an increase in number of available Tier 1 (Exceptional 
+
+Talent) visas as one of the available visa routes for non-EEA migrants 
+wishing to come to the UK to work from 1000 to 2000 per year. This presents 
+great opportunities for ensuring the UK attracts the best and brightest talent in 
+AI. We will work with Tech Nation to explore how to promote this and other 
+visa routes to AI specialists, and will continue to review how we promote 
+these routes to maximise the growth of AI in the UK. 
+ 
+
+50. As part of the recent successful AI and Data Sector Deal, we committed to 
+
+develop a new industrial master’s programme for AI. We are kicking off work 
+with the help of the British Computer Society, supported by the Alan Turing 
+Institute, and in partnership with universities and major businesses such as 
+Ocado, Amazon, Rolls Royce, McKinsey’s Quantum Black, and others. 
+ 
+
+51. Scoping work commences in early July to develop the programme and gather 
+
+further commitments and support across universities and industry. 
+
+52. Government is also creating a specific working group on Skills within the AI 
+
+Council, which will seek to address issues and skills, including assessing 
+impacts and ensuring provision of skills is appropriate.  
+
+19 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Maintaining innovation 
+Recommendations 31-32 
+ 
+
+ 
+
+ 
+
+xxxi. We believe that the Government must commit to underwriting, and 
+where necessary replacing, funding for European research and 
+innovation programmes, after we have left the European Union. 
+(Paragraph 188) 
+
+xxxii. The state has an important role in supporting AI research through 
+the research councils and other mechanisms, and should be mindful to 
+ensure that the UK’s advantages in AI R&D are maintained. There is a 
+risk that the current focus on deep learning is distracting attention away 
+from other aspects of AI research, which could contribute to the next 
+big advances in the field. The Government and universities have an 
+important role to play in supporting diverse sub-fields of AI research, 
+beyond the now well-funded area of deep learning, in order to ensure 
+that the UK remains at the cutting edge of AI developments. (Paragraph 
+191) 
+
+53. The artificial intelligence Sector Deal is the first commitment from 
+
+Government and industry to realise this technology’s potential, outlining a 
+package of up to £0.95bn of support for the sector, which includes 
+Government, industry and academic contributions up to £525m in new 
+commitments, and up to £421m from allocating UKRI AI specific funding from 
+within existing budgets, alongside £250m for Connected and Autonomous 
+Vehicles. This support complements and leverages some of the £1.7bn that 
+has been announced under the cross-sectoral Industrial Strategy Challenge 
+Fund so far. Five challenges have AI components across the spectrum of 
+technologies encompassed by AI, which AI businesses will be able to bid in to 
+through future competitions. 
+
+ 
+Working with artificial intelligence 
+Productivity 
+Recommendations 33-34 
+ 
+
+xxxiii. We support the Government’s belief that artificial intelligence 
+offers an opportunity to improve productivity. However, to meet this 
+potential for the UK as a whole, the AI Council must take a role in 
+enabling AI to benefit all companies (big and small) and ensuring they 
+are able to take advantage of existing technology, in order for them to 
+take advantage of future technology. It will be important that the Council 
+identifies accelerators and obstacles to the use of AI to improve 
+productivity, and advises the Government on the appropriate course of 
+action to take. (Paragraph 199) 
+
+xxxiv. We welcome the Government’s intentions to upgrade the nation’s 
+digital infrastructure, as far as they go. However, we are concerned that 
+it does not have enough impetus behind it to ensure that the digital 
+foundations of the country are in place in time to take advantage of the 
+potential artificial intelligence offers. We urge the Government to 
+consider further substantial public investment to ensure that 
+everywhere in the UK is included within the rollout of 5G and ultrafast 
+broadband, as this should be seen as a necessity. (Paragraph 203) 
+
+20 
+
+ 
+
+ 
+
+ 
+
+  
+
+54. The Government is strongly committed to improving the nation’s digital 
+
+infrastructure. A total of £740m from the National Productivity Investment 
+Fund has been allocated to the Local Full Fibre Networks programme and the 
+5G Testbeds and Trials programmes over the next four years to support this 
+aim. 
+ 
+
+55. Of this £740m, £280m is allocated to the Local Full Fibre Networks 
+
+programme, the strategic objective of which is to stimulate commercial 
+investment in full fibre networks and accelerate the rollout of full fibre across 
+the country. The programme is currently running a £190m Challenge Fund 
+which is designed to leverage local and commercial investment in full fibre 
+networks in both rural and urban locations across the whole of the UK. Local 
+bodies have been invited to submit formal bids, and funding will be allocated 
+in waves. 13 successful bidders for the first wave of funding were announced 
+in the Chancellor’s Spring Statement in March 2018, totalling an investment of 
+up to £95.5m from the fund. We expect the next wave of the Challenge Fund 
+to open in summer 2018. 
+ 
+
+56. The Local Full Fibre Networks programme also launched a £67m Gigabit 
+
+Broadband Voucher Scheme in March 2018. Small to medium sized 
+businesses can claim a voucher worth up to £3,000 and the residents in the 
+local communities around them can claim a voucher worth up to £500 as part 
+of a group project. Gigabit broadband vouchers can be used to contribute to 
+the installation cost of faster connections over gigabit-capable infrastructure. 
+Businesses and local community groups interested in requesting a voucher 
+can find details of suppliers in their local area on our website at 
+https://gigabitvoucher.culture.gov.uk/. 
+ 
+
+57. £400 million of public funding has also been made available for fibre 
+
+connectivity through the Digital Infrastructure Investment Fund. This is 
+intended to unlock approximately £1bn of private investment. 
+ 
+
+58. The Department for Environment, Food and Rural Affairs (Defra) has also 
+
+allocated £30m of grant funding from the Rural Development Programme for 
+England, targeted at helping to connect businesses with broadband in hard to 
+reach rural areas. 
+
+59. Beyond this, the Future Telecoms Infrastructure Review will assess what 
+
+further changes could be made to create the competitive conditions to 
+encourage the long-term investment needed to deliver the next generation of 
+digital infrastructure in different areas of the UK, including hard-to-reach rural 
+areas. 
+
+  
+Government adoption, and procurement, of artificial intelligence 
+Recommendations 35 - 38 
+ 
+
+xxxv. The Government’s leadership in the development and deployment 
+of artificial intelligence must be accompanied by action. We welcome 
+the announcement of the GovTech Catalyst and hope that it can open 
+the doors of Whitehall to the burgeoning AI development sector in the 
+
+ 
+
+21 
+
+UK. We also endorse the recommendation of the Hall-Pesenti Review 
+aimed at encouraging greater use of AI in the public sector. (Paragraph 
+215) 
+
+60. The GovTech Catalyst Fund will provide £20m for technology companies to 
+
+use AI and other emerging technologies to help solve public sector 
+challenges. The first five public sector challenges to be funded were 
+announced on 10 May. The first of these challenges, from the Home Office – 
+to identify Daesh still images online – opened as a competition to tech 
+companies on 14 May. The other four challenges announced will be opened 
+formally as competitions in the following four months. A second call for 
+challenges to public sector bodies opened on 21 May. We expect to fund at 
+least 15 competitions through the GovTech Fund, which will provide 
+opportunities for up to 75 tech companies to undertake initial feasibility work 
+and propose solutions and up to 30 tech companies with R&D funding to build 
+proof of concepts.  
+
+xxxvi. To ensure greater uptake of AI in the public sector, and to lever 
+the Government’s position as a customer in the UK, we recommend that 
+public procurement regulations are reviewed and amended to ensure 
+that UK-based companies offering AI solutions are invited to tender and 
+given the greatest opportunity to participate. The Crown Commercial 
+Service, in conjunction with the Government Digital Office, should 
+review the Government Service Design Manual and the Technology 
+Code of Practice to ensure that the procurement of AI-powered systems 
+designed by UK companies is encouraged and incentivised, and done in 
+an ethical manner. (Paragraph 216) 
+
+xxxvii. We also encourage the Government to be bold in its approach to 
+the procurement of artificial intelligence systems, and to encourage the 
+development of possible solutions to public policy challenges through 
+limited speculative investment and support to businesses which helps 
+them convert ideas to prototypes, in order to determine whether their 
+solutions are viable. The value of AI systems which are deployed to the 
+taxpayer will compensate for any money lost in supporting the 
+development of other tools. (Paragraph 217) 
+
+61. The Technology Code of Practice and associated guidance are agnostic of 
+
+any specific technology. For example, as stated in the 'Choosing technology: 
+an introduction’ guidance, the most important thing is to make choices that 
+allow technology buyers to change their minds at a later stage, and adapt 
+technology as their understanding of how to meet user needs changes.4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+62. Where users' needs are potentially best met by commercially available AI (or 
+
+other new and emerging) technologies or services, then existing Crown 
+Commercial Service (CCS) procurement channels such as the G-Cloud and 
+Digital Outcomes and Specialists frameworks, which are available to the 
+whole UK public sector through the Digital Marketplace5, should be used and 
+in accordance with UK public procurement policy and regulations. 
+
+                                            
+4 https://www.gov.uk/service-manual/technology/choosing-technology-an-introduction 
+5 https://www.digitalmarketplace.service.gov.uk/ 
+
+22 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+63. Where users' needs are potentially best met by the application of AI (or other 
+
+new and emerging) technologies or services that do not yet exist 
+commercially, the Small Business Research Initiative (SBRI) process that's 
+used by the Government Digital Service (GDS) GovTech Catalyst and Fund, 
+provides a research and development funding route for innovative tech 
+companies to develop such solutions. Once these are commercialised, their 
+offerings should be diffused for wider adoption by the UK public via the Digital 
+Marketplace (as outlined above). 
+
+64. At Davos 2018, the Secretary of State for Digital, Culture, Media and Sport 
+
+signed an agreement with the Chair of the World Economic Forum to second 
+an official to the San Francisco Center for the 4th Industrial Revolution, to 
+conduct research towards a framework for responsible public procurement AI. 
+Outputs will be considered by the Centre for Data Ethics and Innovation, and 
+may feed into future iterations of the Data Ethics Framework and Digital 
+Marketplace, to equip public sector procurers with the tools they need to 
+consider AI solutions when sourcing digital solutions. 
+
+xxxviii. Finally, with respect to public procurement, we recommend the 
+establishment of an online bulletin board for the advertisement of 
+challenges which the Government Office for AI and the GovTech 
+Catalyst have identified from across Government and the wider public 
+sector where there could be the 
+potential for innovative tech- and AI-based solutions. (Paragraph 218) 
+
+65. Information and guidance on the GovTech Catalyst Fund and a list of all of 
+the challenges submitted to date is available on GOV.UK.6  Information for 
+tech companies on each of the competitions launched is available on the 
+Innovate UK website.7 
+ 
+
+Impact on the labour market 
+Recommendation 39 
+ 
+
+xxxix. The labour market is changing, and further significant disruption 
+to that market is expected as AI is adopted throughout the economy. As 
+we move into this unknown territory, forecasts of AI’s growing impact—
+jobs lost, jobs enhanced and new jobs created—are inevitably 
+speculative. There is an urgent need to analyse or assess, on an 
+ongoing basis, the evolution of AI in the UK, and develop policy 
+responses. (Paragraph 231) 
+
+66. The UK labour market is one of the most flexible in the world which is a result 
+of our regulatory approach and low-cost burdens. As a global leader, the UK 
+needs a large workforce with deep AI expertise; a more diverse AI research 
+base and workforce; and better digital skills in the wider workforce to use AI. 
+
+ 
+
+ 
+
+67. We recognise the need to develop accurate forecasts on the likely impacts of 
+
+AI and automation on jobs and their skill-content, as well as monitoring the 
+
+                                            
+6 https://www.gov.uk/government/publications/govtech-catalyst-round-1-submitted-challenges 
+7 https://www.gov.uk/government/organisations/innovate-uk 
+
+ 
+
+23 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pace and scope of changes. The Government is working on how we best 
+understand the sequence of which sectors are likely to experience disruption 
+and when.  While not a guarantee, history shows that new technologies 
+create new jobs. Therefore, the key for the success of our economy and for 
+individuals to prosper is to make sure that appropriate skills provision is in 
+place throughout peoples’ working lives, such as through the National 
+Retraining Scheme.  
+
+68. In October 2017 the Office for National Statistics (ONS) published its 
+
+assessment of the UK’s current and future employment prospects at local 
+authority level, based on a range of indicators.8 In conjunction with their data 
+science campus they also produced a map-viewer tool for this data.9 They 
+continue to review the data to maintain, as far as is possible, an accurate 
+assessment of the changing labour market.  
+
+69. Government believes that digitisation of industry, including the adoption of 
+
+artificial intelligence and data technologies, has the potential to achieve great 
+benefits for the labour market, which can offset the impact of job 
+displacement. Extensive research conducted for the Made Smarter Review 
+found that industrial digitisation can result in a net gain of 175,000 jobs. 
+However, Government recognises that there will be challenges of job 
+displacement in the short term and is preparing to mitigate this by providing 
+digital skills training and lifelong learning opportunities, and by introducing 
+new degrees such as Industrial Masters courses and more PhDs.  
+
+70. There are a number of areas where Governments may act to ensure a 
+
+positive AI future: 
+improving the diversity of the AI workforce, to avoid encoding bias; 
+improving the way skills training systems respond to changing skills needs; 
+improving technology for training and education; 
+
+• 
+• 
+• 
+•  conversion courses and PhDs; 
+•  helping people and cities and regions adapt to changes in work and in 
+
+economies; and 
+
+•  promoting uptake of AI across industry, so companies can stay competitive 
+
+with public sector use of AI. 
+
+71. The Artificial Intelligence Sector Deal addresses these specific areas by: 
+•  working with the AI Council to promote diversity in the AI workforce; 
+•  announcing a major reform of technical education with the launch of T levels 
+
+and investment in STEM subjects; 
+
+•  £84m of new funding to deliver a comprehensive four-year programme to 
+
+improve computing education and drive up participation in computer science, 
+including upskilling up to 8,000 computer science teachers; 
+
+•  supporting the creation of Ada, the National College of Digital Skills, which will 
+train up to 5,000 students over the next seven years for a wide range of digital 
+careers; 
+
+                                            
+8 
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/adhocs/007606employmentcharacteristics
+oflocalauthoritiesgreatbritain2015 
+9 https://datasciencecampus.shinyapps.io/employmentProspects/   
+ 
+
+24 
+
+ 
+
+•  working with industry, which will be investing to fund a Master’s degree 
+
+• 
+
+programme with an integrated internship targeting an initial cohort of 200 
+students per year; and 
+funding 450 new PhD places and establish the prestigious Turing Fellowship 
+to support an initial cohort of 10 AI fellows in order to keep the best and 
+brightest AI researchers in the UK. 
+ 
+
+National Retraining Scheme 
+Recommendation 40 
+ 
+
+xlv. The UK must be ready for the disruption that AI will have on the way 
+in which we work. We support the Government’s interest in developing 
+adult retraining schemes, as we believe AI will disrupt a wide range of 
+jobs over the coming decades, and both blue- and white-collar jobs 
+which exist today will be put at risk. It will therefore be important to 
+encourage and support workers as they move into the new jobs and 
+professions we believe will be created as a result of new technologies, 
+including AI. The National Retraining Scheme could play an important 
+role here, and must ensure that the recipients of retraining schemes are 
+representative of the wider population. Industry should assist in the 
+financing of the National Retraining Scheme by matching Government 
+funding. This partnership would help improve the number of people who 
+can access the scheme and better identify the skills required. Such an 
+approach must reflect the lessons learned from the execution of the 
+Apprenticeship Levy. (Paragraph 236) 
+
+72. The Government is currently developing its plans for the National Retraining 
+
+Scheme, which was announced at Autumn Budget 2017. This will be an 
+ambitious, far-reaching programme that helps adults to retrain as our 
+economy evolves due to technological change, including further 
+developments in Artificial Intelligence. 
+
+73. It will offer vital support to individuals who will increasingly need to learn new 
+
+skills throughout their working lives, allowing them to progress and redirect 
+their careers to secure the jobs of the future. The Government has been clear 
+that the Scheme will need to work for adults whose jobs are likely to be 
+disproportionately affected by technological change. 
+
+74. The Government is working closely with industry and employees to develop 
+
+the Scheme, including through an historic National Retraining Partnership 
+between Government, the Confederation of British Industry and the Trades 
+Union Congress, ensuring that wider stakeholder views continue to feed into 
+the ongoing development of the Scheme. This in turn will help identify priority 
+areas based on evidence and national training needs. Establishing the most 
+appropriate funding mechanisms will be an important consideration as we 
+develop the Scheme, along with learning lessons from past interventions and 
+reforms. 
+
+ 
+
+25 
+
+ 
+
+ 
+
+  
+
+ 
+ 
+ 
+
+ 
+
+Living with artificial intelligence 
+Education and artificial intelligence 
+Recommendations 41-46 
+ 
+
+xlvi. It is clear to us that there is a need to improve digital understanding 
+and data literacy across society, as these are the foundations upon 
+which knowledge about AI is built. This effort must be undertaken 
+collaboratively by public sector organisations, civil society 
+organisations (such as the Royal Society) and the private sector. 
+(Paragraph 249) 
+
+xlvii. The evidence suggests that recent reforms to the computing 
+curriculum are a significant improvement on the ICT curriculum, 
+although it is still too early to say what the final results of this will be. 
+The Government must be careful not to expand computing education at 
+the expense of arts and humanities subjects, which hone the creative, 
+contextual and analytical skills which will likely become more, not less, 
+important in a world shaped by AI. (Paragraph 250) 
+
+xlviii. We are, however, concerned to learn of the absence of wider 
+social and ethical implications from the computing curriculum, as 
+originally proposed. We recommend that throughout the curriculum the 
+wider social and ethical aspects of computer science and artificial 
+intelligence need to be restored to the form originally proposed. 
+(Paragraph 251) 
+
+xlviv. While we welcome the measures announced in the Autumn 
+Budget 2017 to increase the number of computer science teachers in 
+secondary schools, a greater sense of urgency and commitment is 
+needed from the Government if the UK is to meet the challenges 
+presented by AI. (Paragraph 257) 
+
+xlv. The Government must ensure that the National Centre for 
+Computing is rapidly created and adequately resourced, and that there 
+is support for the retraining of teachers with associated skills and 
+subjects such as mathematics. In particular, Ofsted should ensure that 
+schools are making additional time available to teachers to enable them 
+to train in new technology-focused aspects of the curriculum. We also 
+urge the Government to make maximum use across the country of 
+existing lifelong learning facilities for the training and regular retraining 
+of teachers and other AI experts. (Paragraph 258) 
+
+xlvi. Supplementary to the Hall-Pesenti Review, the Government should 
+explore ways in which the education sector, at every level, can play a 
+role in translating the benefits of AI into a more productive and 
+equitable economy. (Paragraph 259) 
+
+75. We welcome the Committee’s recognition that the computing curriculum has 
+
+improved. The new computing curriculum was introduced in 2014 in 
+recognition that the demand for high-level skills in computing will grow in the 
+years ahead. We recognise the importance of the arts and humanities in the 
+national curriculum and as part of a broad and balanced curriculum. Arts and 
+humanities subjects are mandatory until the end of key stage 3 for pupils in 
+
+26 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+maintained schools, which must also offer at least one subject from each of 
+arts; design & technology; humanities; modern foreign languages to key stage 
+4 pupils. 
+ 
+
+76. To respond to the Committee’s concerns about the absence of social and 
+
+ethical implications of computer science, the content of the computing 
+curriculum ensures all pupils will become digitally literate at a level suitable for 
+the future workplace and as active participants in a digital world. The 
+curriculum aims for all pupils to be ‘responsible, competent, confident and 
+creative users of information and communication technology’. Moreover, 
+ethical and social aspects of computing are addressed in the computer 
+science GCSE, which requires knowledge and understanding of ‘the ethical, 
+legal and environmental impacts of digital technology on wider society, 
+including issues of privacy and cyber security’. 
+ 
+
+77. The Children and Social Work Act 2017 places a duty on the Secretary of 
+
+State for Education to make Relationships Education at primary and 
+Relationships and Sex Education at secondary mandatory through 
+regulations. We expect that these subjects will cover the risks of the internet, 
+including cyberbullying and online grooming. 
+ 
+
+78. It is important to allow a period of stability for these changes to embed and 
+
+the Secretary of State for Education has committed to no further changes to 
+the national curriculum for the rest of this parliament, beyond those already 
+announced. 
+
+79. In response to the Committee’s concerns about the National Centre for 
+
+Computing and the broader measures announced in the Autumn Budget 
+2017, the Department for Education would like to reassure the Committee 
+that measures to improve the teaching of computer science in secondary 
+schools are already underway. Government went to tender in May 2018 for 
+the wider computing programme, which includes establishing a National 
+Centre of Computing Education and at least 40 hubs, an intensive Continuing 
+Professional Development (CPD) programme of at least 40 hours to upskill up 
+to 8,000 existing teachers – to ensure they have the knowledge needed to 
+teach the new GSCE computer science. This will be designed for computing 
+teachers without a post-A level qualification in computer science and aims to 
+reach up to 8,000 secondary teachers – enough for there to be one in every 
+secondary school. The investment also includes an A-level support 
+programme. We have committed to programmes beginning in autumn 2018 
+and the first cohort of teachers should start the CPD programme in the 18/19 
+academic year. The pace of this timetable recognises the urgency of these 
+issues. Alongside the measures planned for the schools workforce, the 
+Government has plans to upskill the further education workforce in 
+preparation of the launch of T-Levels. Further details on this will be 
+forthcoming shortly. 
+
+27 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Impact on social and political cohesion 
+Recommendations 47-48 
+ 
+
+ 
+
+ 
+
+xlvii. There are many social and political impacts which AI may have, 
+quite aside from people’s lives as workers and consumers. AI makes the 
+processing and manipulating of all forms of digital data substantially 
+easier, and given that digital data permeates so many aspects of 
+modern life, this presents both opportunities and unprecedented 
+challenges. As discussed earlier in our report, there is a rapidly growing 
+need for public understanding of, and engagement with, AI to develop 
+alongside the technology itself. The manipulation of data in particular 
+will be a key area for public understanding and discussion in the 
+coming months and years. (Paragraph 265) 
+
+xlviii. We recommend that the Government and Ofcom commission 
+research into the possible impact of AI on conventional and social 
+media outlets, and investigate measures which might counteract the 
+use of AI to mislead or distort public opinion as a matter of urgency. 
+(Paragraph 266) 
+ 
+
+80. The Government published the Digital Charter earlier this year which set out 
+our ambition to make the UK the safest place to be online. The Government 
+takes the issue of manipulation online very seriously, particularly where this 
+may influence political debate, and tackling disinformation is a key pillar of the 
+Digital Charter. The Government is undertaking additional research to better 
+understand the problem of disinformation, including the scale, scope and 
+impact in the UK. This includes an assessment of the impact of AI and other 
+technologies, which will support the development of policies to tackle 
+disinformation online. Going forward, we will continue to work with industry, 
+civil society and international partners to conduct further research and public 
+awareness programmes to tackle this problem. 
+
+ 
+Inequality 
+Recommendations 49-50 
+ 
+
+xlix. The risk of greater societal and regional inequalities emerging as a 
+consequence of the adoption of AI and advances in automation is very 
+real, and while the Government’s proposed policies on regional 
+development are to be welcomed, we believe more needs to be done in 
+this area. We are not yet convinced that basic income schemes will 
+prove to be the answer, but we watch Scotland’s experiments with 
+interest.  (Paragraph 275) 
+
+l. Everyone must have access to the opportunities provided by AI. The 
+Government must outline its plans to tackle any potential societal or 
+regional inequality caused by AI, and this must be explicitly addressed 
+as part of the implementation of the Industrial Strategy. The Social 
+Mobility Commission’s annual State of the Nation report should include 
+the potential impact of AI and automation on inequality. (Paragraph 276) 
+
+81. We know that better skills and training widen access to opportunities. Further 
+
+to the digital skills initiatives we have described, the Social Mobility 
+
+28 
+
+ 
+
+ 
+
+ 
+
+Commission has a broad remit to advise on a range of issues, including how 
+the labour market impacts social mobility. We are currently recruiting a new 
+Chair for the Commission, and the Commission’s future research programme 
+will be agreed with the new Chair once they are appointed. 
+
+ 
+Healthcare and artificial intelligence 
+Recommendations 51 - 54 
+ 
+
+li.  Maintaining public trust over the safe and secure use of their data is 
+paramount to the successful widespread deployment of AI and there is 
+no better exemplar of this than personal health data. There must be no 
+repeat of the controversy which arose between the Royal Free London 
+NHS Foundation Trust and DeepMind. If there is, the benefits of 
+deploying AI in the NHS will not be adopted or its benefits realised, and 
+innovation could be stifled. (Paragraph 300) 
+
+82. NHS patients rightly expect to receive the best possible care, and 
+
+technologies like the Streams app, developed by Royal Free and Deepmind, 
+have the potential to revolutionise the way treatment is delivered. However, 
+they must be used in a way that keeps patient data safe and secure. 
+ 
+
+83. As a point of clarity it is worth noting that whilst it has been widely reported 
+
+that Deepmind’s Streams app uses an AI algorithm – it does not, but we 
+acknowledge that lessons from Royal Free/Deepmind are applicable to AI 
+(and to other, data-driven technologies). 
+ 
+
+84. We respect the judgement of the Information Commissioner and the National 
+
+Data Guardian on this matter. We are working to ensure that we have a 
+regulatory framework for technology which protects patients, and is flexible 
+enough to take into account the innovative nature of the products that it will 
+regulate. 
+ 
+lii. The data held by the NHS could be considered a unique source of 
+value for the nation. It should not be shared lightly, but when it is, it 
+should be done in a manner which allows for that value to be recouped. 
+We are concerned that the current piecemeal approach taken by NHS 
+Trusts, whereby local deals are struck between AI developers and 
+hospitals, risks the inadvertent underappreciation of the data. It also 
+risks NHS Trusts exposing themselves to inadequate data sharing 
+arrangements. (Paragraph 301) 
+
+85. DHSC has begun work to develop clear policy propositions on how the UK 
+
+can accrue value from granting access to patient data for research and 
+innovation purposes and patient and public benefit. 
+ 
+liii. We recommend that a framework for the sharing of NHS data should 
+be prepared and published by the end of 2018 by NHS England 
+(specifically NHS Digital) and the National Data Guardian for Health and 
+Care. This should be prepared with the support of the ICO and the 
+clinicians and NHS Trusts which already have experience of such 
+arrangements (such as the Royal Free London and Moorfields Eye 
+Hospital NHS Foundation Trusts), as well as the Caldicott Guardians. 
+
+29 
+
+ 
+
+ 
+
+ 
+
+This framework should set out clearly the considerations needed when 
+sharing patient data in an appropriately anonymised form, the 
+precautions needed when doing so, and an awareness of the value of 
+that data and how it is used. It must also take account of the need to 
+ensure SME access to NHS data, and ensure that patients are made 
+aware of the use of their data and given the option to opt out. 
+(Paragraph 302) 
+
+86. Work led by NHS England and NHS Digital to develop frameworks and 
+
+mechanisms to make NHS data available as a research resource is ongoing. 
+ 
+
+87. Funding initiatives deriving from the Industrial Strategy and the Life Sciences 
+
+Sector Deal are designed to encourage the development and growth of British 
+SMEs. 
+ 
+
+88. We will continue to work with ICO, NDG, regulatory bodies, the wider NHS 
+
+and partners to ensure that appropriate regulatory frameworks, codes of 
+conduct and guidance are available.  
+
+liv. Many organisations in the United Kingdom are not taking advantage 
+of existing technology, let alone ready to take advantage of new 
+technology such as artificial intelligence. The NHS is, perhaps, the most 
+pressing example of this. The development, and eventual deployment, 
+of AI systems in healthcare in the UK should be seen as a collaborative 
+effort with both the NHS and the AI developer being able to benefit. To 
+release the value of the data held, we urge the NHS to digitise its current 
+practices and records, in consistent formats, by 2022 to ensure that the 
+data it holds does not remain inaccessible and the possible benefits to 
+society unrealised. (Paragraph 303) 
+
+89. Provider digitisation is the main component of the over £4bn Digital 
+
+Transformation Portfolio. This is currently undergoing re-prioritisation to 
+ensure that it delivers the ICT infrastructure the NHS will need to take 
+advantage of emerging technologies including AI. 
+ 
+
+90. The Digital Transformation Portfolio and associated programmes are 
+
+addressing this through a system-wide move towards interoperability led by 
+NHS England and NHS Digital. This includes ensuring that data is 
+interoperable between providers and across care settings. 
+ 
+
+91. We are addressing other aspects of interoperability through, for example, the 
+
+adoption of the SNOMED standard for clinical terminology, to ensure 
+consistency between different providers in different areas. 
+ 
+
+92. All patient data held by the NHS is handled within the legal framework, and 
+
+meets the strict parameters for sharing information and the security standards 
+set out by the National Data Guardian. This means that patient information 
+will never be sold for marketing or insurance purposes. 
+ 
+
+93. We are committed to continuing to support researchers to access patient 
+
+information to carry out research which aims to improve human health and 
+care. Again, this will only happen within the legal framework, with anonymised 
+
+30 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information wherever possible and within the standards set out by the 
+National Data Guardian. When information is accessed in this way, 
+researchers will often be charged for the administrative costs of providing 
+information. 
+ 
+
+94. NHS England and the Department of Health and Social Care are committed 
+to working with representatives of the public and industry to explore how to 
+maximise the benefits of health and care data for patients and taxpayers. 
+
+ 
+Mitigating the risks of artificial intelligence 
+Legal liability 
+Recommendations 55-56 
+ 
+
+lv. In our opinion, it is possible to foresee a scenario where AI systems 
+may malfunction, underperform or otherwise make erroneous decisions 
+which cause harm. In particular, this might happen when an algorithm 
+learns and evolves of its own accord. It was not clear to us, nor to our 
+witnesses, whether new mechanisms for legal liability and redress in 
+such situations are required, or whether existing mechanisms are 
+sufficient. (Paragraph 317) 
+
+lvi. Clarity is required. We recommend that the Law Commission 
+consider the adequacy of existing legislation to address the legal 
+liability issues of AI and, where appropriate, recommend to Government 
+appropriate remedies to ensure that the law is clear in this area. At the 
+very least, this work should establish clear principles for accountability 
+and intelligibility. This work should be completed as soon as possible. 
+(Paragraph 318) 
+
+ 
+
+ 
+
+95. Government welcomes the above recommendation and the 
+
+acknowledgement of potential errors produced through artificial intelligence 
+technologies and their potential implications. We believe that artificial 
+intelligence technologies should serve people, businesses, and sectors 
+beneficially and, where any outcomes resulting from errors are detrimental to 
+these groups, remedial action should be undertaken. The Office for Artificial 
+Intelligence, Centre for Data Ethics and Innovation, and the AI Council will 
+take these concerns into consideration and, as appropriate, engage the Law 
+Commission on best course of action.  
+ 
+
+Criminal misuse of artificial intelligence and data 
+Recommendations 57 - 59 
+ 
+
+lvii.  The potential for well-meaning AI research to be used by others to 
+cause harm is significant. AI researchers and developers must be alive 
+to the potential ethical implications of their work. The Centre for Data 
+Ethics and Innovation and the Alan Turing Institute are well placed to 
+advise researchers on the potential implications of their work, and the 
+steps they can take to ensure that such work is not misused. However, 
+we believe additional measures are required. (Paragraph 328) 
+
+96. A response to recommendation 57 can be found in the final section of this 
+
+document. 
+
+31 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+lviii. We recommend that universities and research councils providing 
+grants and funding to AI researchers must insist that applications for 
+such money demonstrate an awareness of the implications of the 
+research and how it might be misused, and include details of the steps 
+that will be taken to prevent such misuse, before any funding is 
+provided. (Paragraph 329) 
+
+97. UKRI agrees with the recommendation and recognises the potential for 
+misuse of emerging research and technologies around AI. UKRI already 
+assesses ethical issues within research as part of the peer review process 
+and takes action to utilise a more specific Responsible Research and 
+Innovation framework where appropriate. Assessment of concerns 
+surrounding AI will be taken into account by these existing processes. 
+
+lix. We recommend that the Cabinet Office’s final Cyber Security 
+Science & Technology Strategy take into account the risks as well as 
+the opportunities of using AI in cybersecurity applications, and 
+applications more broadly. In particular, further research should be 
+conducted into methods for protecting public and private datasets 
+against any attempts at data sabotage, and the results of this research 
+should be turned into relevant guidance. (Paragraph 333) 
+
+98. Government welcomes the recommendation that the Cyber Security Science 
+& Technology Strategy takes into account the risks as well as opportunities of 
+using AI in cybersecurity, and other applications.  The Department for Digital, 
+Culture, Media and Sport will consider this in developing the strategy, 
+recognising the potential for AI and machine learning to have a transformative 
+impact on the cyber security threats, and solutions, of the future.  
+
+Autonomous weapons 
+Recommendations 60-61 
+ 
+
+lx. Without agreed definitions we could easily find ourselves stumbling 
+through a semantic haze into dangerous territory. The Government’s 
+definition of an autonomous system used by the military as one where it 
+“is capable of understanding higher-level intent and direction” is clearly 
+out of step with the definitions used by most other Governments. This 
+position limits both the extent to which the UK can meaningfully 
+participate in international debates on autonomous weapons and its 
+ability to take an active role as a moral and ethical leader on the global 
+stage in this area. Fundamentally, it also hamstrings attempts to arrive 
+at an internationally agreed definition. (Paragraph 345) 
+
+lxi. We recommend that the UK’s definition of autonomous weapons 
+should be realigned to be the same, or similar, as that used by the rest 
+of the world. To produce this definition the Government should convene 
+a panel of military and AI experts to agree a revised form of words. This 
+should be done within eight months of the publication of this report. 
+(Paragraph 346) 
+
+32 
+
+ 
+
+ 
+
+ 
+
+99. The Ministry of Defence has no plans to change the definition of an 
+
+autonomous system. The UN Convention on Certain Conventional Weapons 
+Group of Government Experts (GGE) on Lethal Autonomous Weapon 
+Systems (LAWS) continues to look at the issue but has yet to agree on the 
+definition and characteristics of possible LAWS. The UK will continue to 
+actively participate in future GGE meetings, trying to reach agreement at the 
+earliest possible stage. 
+
+ 
+Shaping artificial intelligence 
+Leading at home 
+Recommendations 62-67 
+ 
+
+lxii. Artificial intelligence’s potential is an opportunity the Government is 
+embracing. The Government’s recent enthusiasm and responsiveness 
+to artificial intelligence in the UK is to be welcomed. We have proposed 
+a number of recommendations for strengthening recent policy 
+announcements, based on the extensive evidence we have received as 
+a Committee. We encourage the Government to continue to be proactive 
+in developing policies to harness the potential of AI and mitigate the 
+risks. We do, however, urge the Government to ensure that its approach 
+is focused and that it provides strategic leadership—there must be a 
+clear roadmap for success. Policies must be produced in concert with 
+one another, and with existing policy. Industry and the public must be 
+better informed about the announcements, and sufficient detail 
+provided from the outset. (Paragraph 366) 
+
+lxiii. The pace at which this technology will grow is unpredictable, and 
+the policy initiatives have been many. To avoid policy being too 
+reactive, and to prevent the new institutions from overlapping and 
+conflicting with one another, we recommend that the Government Office 
+for AI develop a national policy framework for AI, to be in lockstep with 
+the Industrial Strategy, and to be overseen by the AI Council. Such a 
+framework should include policies related to the recommendations of 
+this report, and be accompanied, where appropriate, by a long-term 
+commitment to such policies in order to realise the benefits. It must also 
+be clear within Government who is responsible around the Cabinet table 
+for the direction and ownership of this framework and the AI-related 
+policies which fall within it. (Paragraph 367) 
+
+lxiv. The roles and remits of the new institutions must be clear, if they 
+are to be a success. The public and the technology sector in the UK 
+must know who to turn to for authoritative advice when it comes to the 
+development and use of artificial intelligence. To ensure public 
+confidence, it must also be clear who to turn to if there are any 
+complaints about how AI has been used, above and beyond the matters 
+relating to data use (which falls within the Information Commissioner’s 
+remit). (Paragraph 368) 
+
+lxv. We recommend that the Government Office for AI should act as the 
+coordinator of the work between the Centre for Data Ethics and 
+Innovation, the GovTech Catalyst team and the national research centre 
+for Artificial Intelligence Research (the Alan Turing Institute), as well as 
+the AI Council it is being established to support. It must also take heed 
+of the work of the more established bodies which have done work in 
+
+33 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this area, such as the Information Commissioner’s Office and the 
+Competition and Markets Authority. The 
+work programmes of all the new AI-specific institutions should be 
+subject to agreement with one another, on a quarterly basis, and should 
+take into account the work taking place across Government in this area, 
+as well as the recommendations from Parliament, regulators, and the 
+work of the devolved assemblies and Governments. The UK has a 
+thriving AI ecosystem, and the Government Office for AI should seek to 
+inform its work programme through wide public consultation as it 
+develops Government policy with regard to artificial intelligence. The 
+programme should be publicly available for scrutiny. (Paragraph 369) 
+
+lxvi. We welcome the new focus for the Alan Turing Institute as the 
+national research centre for artificial intelligence. We want it to be able 
+to fulfil this role, and believe it has the potential to do so. As such, the 
+new focus must not simply be a matter of rebranding. The successful 
+institutes in Canada and Germany, such as the Vector Institute and the 
+German Research Center for Artificial Intelligence, offer valuable 
+lessons as to how a national research centre should be operated. 
+(Paragraph 370) 
+
+lxvii. The Government must ensure that the Alan Turing Institute’s 
+funding and structure is sufficient for it to meet its new expanded remit 
+as the UK’s national research centre for AI. In particular, the Institute’s 
+current secondment-based staffing model should be assessed to 
+ensure its suitability, and steps taken to staff the Institute appropriately 
+to meet the demands now placed upon it. (Paragraph 371) 
+
+100. Government supports the Alan Turing Institute, which agrees that 
+
+coordination between institutions operating in this space is vital. One of the 
+Institute’s key strengths lies in their ability to convene groups around policy 
+issues, and they welcome the opportunity to support the Office for Artificial 
+Intelligence in its function providing strategic leadership in this field, and in its 
+coordination efforts across the many players involved. The Institute will utilise 
+their reputation for shaping the public conversation in data science, which 
+includes participation in the Ada Lovelace Institute where they will contribute 
+their research leadership. 
+ 
+
+101. Building the breadth of their remit to include artificial intelligence, the 
+
+Institute recognises that there are considerable areas of overlap between AI 
+and data science, both in their potential to bring game-changing impact to our 
+society and economy, and in the core scientific competencies which underpin 
+them. The Institute is currently developing their international strategy to 
+include collaborations with similar research institutions in Germany, France, 
+and Canada, among others. 
+ 
+
+102. The Alan Turing Institute has achieved a significant amount in the short time 
+
+it has been operational. The Government and UKRI are currently exploring 
+future funding options to enable the Institute to integrate AI with the existing 
+Data Science remit. Regarding the secondment model and staffing, they are 
+evolving their Fellowship model to be project-driven, reflecting the maturation 
+of their research programmes since they first launched in 2015. The Institute 
+
+34 
+
+ 
+
+ 
+
+ 
+
+ 
+
+has invested in and grown their in-house team of research engineers and 
+data scientists. 
+
+ 
+Regulation and Regulators 
+Recommendations 68-69 
+ 
+
+lxviii. Blanket AI-specific regulation, at this stage, would be 
+inappropriate. We believe that existing sector-specific regulators are 
+best placed to consider the impact on their sectors of any subsequent 
+regulation which may be needed. We welcome that the Data Protection 
+Bill and GDPR appear to address many of the concerns of our witnesses 
+regarding the handling of personal data, which is key to the 
+development of AI. The Government Office for AI, with the Centre for 
+Data Ethics and Innovation, needs to identify the gaps, if any, where 
+existing regulation may not be adequate. The Government Office for AI 
+must also ensure that the existing regulators’ expertise is utilised in 
+informing any potential regulation that may be required in the future and 
+we welcome the introduction of the Regulator’s Pioneer Fund. 
+(Paragraph 386)  
+
+103.  The Government agrees with the recommendation. In its Industrial Strategy, 
+
+the Government committed to work with businesses to develop an agile 
+approach to regulation that promotes innovation and the growth of new 
+sectors, while protecting citizens and the environment. To this end, the 
+Government is establishing a Ministerial Working Group on Future Regulation 
+to scan the horizon and identify the areas where regulation needs to adapt to 
+support emerging technologies such as AI, supported by the Office for AI and 
+the Centre for Data Ethics and Innovation. The Government will also establish 
+a £10m Regulators’ Pioneer Fund to support regulators to develop new 
+approaches which enable emerging technologies such as AI. 
+ 
+
+104. Government would offer a range of support such as helping align policies 
+
+around a sector, addressing a regulatory issue or deregulating, ensuring 
+existing sources of funding are used most effectively, and supporting the 
+creation of new institutions to support the sector. 
+ 
+
+105. Industry cannot create laws but can collaborate on processes to make it 
+
+easier to comply with the law, including by identifying challenges and how to 
+address them safely. Data Trusts will not necessarily be a legal entity, 
+although that is one form they could take. Whatever the formulation of the 
+model, it needs to be a repeatable framework that businesses can use. Data 
+Trusts will operate using existing legal frameworks and regulations covering 
+data. In future, the Centre for Data Ethics and Innovation will advise 
+Government and regulators on ethics of data and its use, including for AI -- 
+where a core function will be to partner with the Office for AI in the design of 
+data sharing frameworks including Data Trusts. 
+
+lxiv. The additional burden this could place on existing regulators may 
+be substantial. We recommend that the National Audit Office’s advice is 
+sought to ensure that existing regulators, in particular the Information 
+Commissioner’s Office, are adequately and sustainably resourced. 
+(Paragraph 387) 
+
+35 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+106. The Government recognises the challenge, and opportunity, in securing a 
+
+regulatory approach that both commands public trust and enables world-
+leading innovation in emerging technologies. Achieving both is central to 
+creating a market that can lead on global adoption of AI technologies. 
+ 
+
+107. The UK already has a strong track record in meeting this challenge as 
+
+demonstrated by the Regulatory Sandbox approach - a world-first regulatory 
+mechanism that has enabled innovation. We are investing in securing this 
+outcome for Artificial Intelligence with a £10m investment on the Regulators 
+Pioneer Fund and the new £9m Centre for Data Ethics and Innovation. 
+
+108. The Centre will help strengthen the existing governance landscape. It will 
+supply government with independent, expert advice on measures to enable 
+and support safe, ethical and ground-breaking innovation in AI technologies.  
+ 
+
+109. The Regulatory Pioneers’ Fund is accepting applications over 2018-2020 to 
+
+support regulators to develop new approaches for innovative, emerging 
+technologies. 
+ 
+
+110. Both of these initiatives will complement the efforts of regulators - ensuring 
+
+that they have access to both the resource and advice to adapt as required to 
+market evolutions driven by AI. 
+
+ 
+Assessing policy outcomes 
+Recommendation 70  
+ 
+
+lxx. It is essential that policies towards artificial intelligence are suitable 
+for the rapidly changing environment which they are meant to support. 
+For the UK to be able to realise the benefits of AI, the Government’s 
+policies, underpinned by a co-ordinated approach, must be closely 
+monitored and react to feedback from academia and industry where 
+appropriate. Policies should be benchmarked and tracked against 
+appropriate international comparators. The Government Office for AI 
+has a clear role to play here, and we recommend that progress against 
+the recommendations of this report, the Government’s AI-specific 
+policies within the Industrial Strategy and other related policies, be 
+reported on an annual basis to Parliament. (Paragraph 391) 
+
+111. Governance of and reporting for the AI and Data Grand Challenge is based 
+on the standard Industrial Strategy governance structures. As the Centre for 
+Data Ethics and Innovation and the AI Council, composed of leaders from 
+industry, academia, and the public sector, are stood up over the coming 
+months, there may be a need to update these structures. Any such decision 
+will be made through the existing Industrial Strategy decision framework. As 
+the AI Council’s secretariat, the Office for AI’s responsibilities with respect to 
+reporting will depend on the outcomes of these decisions. 
+
+36 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+A vision for Britain in an AI world 
+Recommendations 71-72 
+ 
+
+lxxi. The transformative potential for artificial intelligence on society at 
+home, and abroad, requires active engagement by one and all. The 
+Government has an opportunity at this point in history to shape the 
+development and deployment of artificial intelligence to the benefit of 
+everyone. The UK’s strengths in law, research, financial services and 
+civic institutions, mean it is well placed to help shape the ethical 
+development of artificial intelligence and to do so on the global stage. 
+To be able to demonstrate such influence internationally, the 
+Government must ensure that it is doing everything it can for the UK to 
+maximise the potential of AI for everyone in the country. (Paragraph 
+402) 
+
+lxxii. We recommend that the Government convene a global summit in 
+London by the end of 2019, in close conjunction with all interested 
+nations and Governments, industry (large and small), academia, and 
+civil society, on as equal a footing as possible. The purpose of the 
+global summit should be to develop a common framework for the 
+ethical development and deployment of artificial intelligence systems. 
+Such a framework should be aligned with existing international 
+governance structures. (Paragraph 403) 
+
+112. Government recognises the transformative potential for artificial intelligence 
+
+on society and the economy, both domestically and internationally. And we 
+are taking steps to ensure the UK is a global leader on artificial intelligence. 
+Since the publication of this Government’s Industrial Strategy, we have taken 
+steps to ensure the appropriate Government entities exist to address the 
+social and economic possibilities AI can offer. The Centre for Data Ethics and 
+Innovation, the Office for Artificial Intelligence, and the AI Council will 
+collectively ensure Government addresses the Grand Challenge on AI and 
+Data and shows global leadership on AI. 
+ 
+
+113. Government launched the Artificial Intelligence Sector Deal in April 2018 
+
+which sets out actions to promote the adoption and use of AI in the UK and 
+delivers on the recommendation of the independent AI review, Growing the AI 
+industry in the UK, which focused on ways to boost the UK’s emerging AI 
+sector at home and across the world.10 The Sector Deal is the first 
+commitment from Government and industry to realise AI’s potential, outlining 
+a package of up to £0.95bn of support for the sector, which includes 
+Government, industry and academic contributions. Up to £603m is newly 
+allocated funding, and up to £342m from within existing budgets, alongside 
+£250m for Connected and Autonomous Vehicles. This support complements 
+and leverages some of the £1.7bn that has been announced under the cross-
+sectoral Industrial Strategy Challenge Fund so far, with five challenge having 
+AI components that AI businesses will be able to bid into through future 
+competitions.  
+
+ 
+
+ 
+
+ 
+
+                                            
+10 https://www.gov.uk/government/publications/growing-the-artificial-intelligence-industry-in-the-uk 
+
+37 
+
+ 
+
+An AI Code 
+Recommendations 73-74 
+
+lxviii. Many organisations are preparing their own ethical codes of 
+conduct for the use of AI. This work is to be commended, but it is clear 
+that there is a lack of wider awareness and co-ordination, where the 
+Government could help. Consistent and widely-recognised ethical 
+guidance, which companies and organisations deploying AI could sign 
+up to, would be a welcome development. (Paragraph 419) 
+ 
+lxxiv. We recommend that a cross-sector ethical code of conduct, or ‘AI 
+code’, suitable for implementation across public and private sector 
+organisations which are developing or adopting AI, be drawn up and 
+promoted by the Centre for Data Ethics and Innovation, with input from 
+the AI Council and the Alan Turing Institute, with a degree of urgency. In 
+some cases, sector-specific variations will need to be created, using 
+similar language and branding. Such a code should include the need to 
+have considered the establishment of ethical advisory boards in 
+companies or organisations which are developing, or using, AI in their 
+work. In time, the AI code could provide the basis for statutory 
+regulation, if and when this is determined to be necessary. (Paragraph 
+420) 
+
+  
+
+114. There are a number of high level themes emerging around the ethical and 
+
+innovative uses of data and AI, some of which are highlighted within the 
+Committee’s report. Many of these are not inherently new or unique, but are 
+being amplified through the use of data-driven and AI-based technologies. 
+ 
+
+115. The Centre will identify the measures needed to strengthen and improve the 
+
+way data and AI is used. It will operate by drawing on evidence and insights 
+from across regulators, academia, the public and business and translate 
+these into actions that deliver direct, real world impact on the way that data 
+and AI is used. Following the public consultation in the summer, the Centre, in 
+dialogue with the Government will carefully prioritise and scope the specific 
+projects within its work programme. 
+
+ 
+Regarding all recommendations concerning the Centre for Data Ethics and 
+Innovation 
+Recommendations:  4, 7, 9, 10, 13, 57, 65, 68, 74 
+
+iv. The Government plans to adopt the Hall-Pesenti Review 
+recommendation that ‘Data Trusts’ be established to facilitate the 
+ethical sharing of data between organisations. However, under the 
+current proposals, individuals who have their personal data contained 
+within these trusts would have no means by which they could make 
+their views heard, or shape the decisions of these trusts. We therefore 
+recommend that as Data Trusts are developed under the guidance of the 
+Centre for Data Ethics and Innovation, provision should be made for the 
+representation of people whose data is stored, whether this be via 
+processes of regular consultation, personal data representatives, or 
+other means. (Paragraph 82) 
+ 
+vii. We support the approach taken by Transport for London, who have 
+released their data through a single point of access, where the data is 
+
+ 
+
+38 
+
+available subject to appropriate terms and conditions and with controls 
+on privacy. The Centre for Data Ethics and Innovation should produce 
+guidance on similar approaches. The Government Office for AI and 
+GovTech Catalyst should work together to ensure that the data for 
+which there is demand is made available in a responsible manner. 
+(Paragraph 85) 
+
+ix. We recommend that the Centre for Data Ethics and Innovation 
+investigate the Open Banking model, and other data portability 
+initiatives, as a matter of urgency, with a view to establishing similar 
+standardised frameworks for the secure sharing of personal data 
+beyond finance. They should also work to create, and incentivise the 
+creation of, alternative tools and frameworks for data sharing, control 
+and privacy for use in a wide variety of situations and contexts. 
+(Paragraph 87) 
+ 
+x. Increasingly, public sector data has value. It is important that public 
+organisations are aware of the commercial potential of such data. We 
+recommend that the Information Commissioner’s Office work closely 
+with the Centre for Data Ethics and Innovation in the establishment of 
+Data Trusts, and help to prepare advice and guidance for data 
+controllers in the public sector to enable them to estimate the value of 
+the data they hold, in order to make best use of it and negotiate fair and 
+evidence-based agreements with private-sector partners. The values 
+contained in this guidance could be based on precedents where public 
+data has been made available and subsequently generated commercial 
+value for public good. The Information Commissioner’s Office should 
+have powers to review the terms of significant data supply agreements 
+being contemplated by public bodies. (Paragraph 88) 
+ 
+xiii. The Centre for Data Ethics and Innovation, in consultation with the 
+Alan Turing Institute, the Institute of Electrical and Electronics 
+Engineers, the British Standards Institute and other expert bodies, 
+should produce guidance on the requirement for AI systems to be 
+intelligible. The AI development sector should seek to adopt such 
+guidance and to agree upon standards relevant to the sectors within 
+which they work, under the auspices of the AI Council. (Paragraph 106) 
+ 
+lvii.  The potential for well-meaning AI research to be used by others to 
+cause harm is significant. AI researchers and developers must be alive 
+to the potential ethical implications of their work. The Centre for Data 
+Ethics and Innovation and the Alan Turing Institute are well placed to 
+advise researchers on the potential implications of their work, and the 
+steps they can take to ensure that such work is not misused. However, 
+we believe additional measures are required. (Paragraph 328) 
+ 
+lxv. We recommend that the Government Office for AI should act as the 
+coordinator of the work between the Centre for Data Ethics and 
+Innovation, the GovTech Catalyst team and the national research centre 
+for Artificial Intelligence Research (the Alan Turing Institute), as well as 
+the AI Council it is being established to support. It must also take heed 
+of the work of the more established bodies which have done work in 
+this area, such as the Information Commissioner’s Office and the 
+Competition and Markets Authority. The work programmes of all the 
+new AI-specific institutions should be subject to agreement with one 
+
+39 
+
+ 
+
+ 
+
+another, on a quarterly basis, and should take into account the work 
+taking place across Government in this area, as well as the 
+recommendations from Parliament, regulators, and the work of the 
+devolved assemblies and Governments. The UK has a thriving AI 
+ecosystem, and the Government Office for AI should seek to inform its 
+work programme through wide public consultation as it develops 
+Government policy with regard to artificial intelligence. The programme 
+should be publicly available for scrutiny. (Paragraph 369) 
+
+lxviii. Blanket AI-specific regulation, at this stage, would be 
+inappropriate. We believe that existing sector-specific regulators are 
+best placed to consider the impact on their sectors of any subsequent 
+regulation which may be needed. We welcome that the Data Protection 
+Bill and GDPR appear to address many of the concerns of our witnesses 
+regarding the handling of personal data, which is key to the 
+development of AI. The Government Office for AI, with the Centre for 
+Data Ethics and Innovation, needs to identify the gaps, if any, where 
+existing regulation may not be adequate. The Government Office for AI 
+must also ensure that the existing regulators’ expertise is utilised in 
+informing any potential regulation that may be required in the future and 
+we welcome the introduction of the Regulator’s Pioneer Fund. 
+(Paragraph 386)  
+ 
+lxxiv. We recommend that a cross-sector ethical code of conduct, or ‘AI 
+code’, suitable for implementation across public and private sector 
+organisations which are developing or adopting AI, be drawn up and 
+promoted by the Centre for Data Ethics and Innovation, with input from 
+the AI Council and the Alan Turing Institute, with a degree of urgency. In 
+some cases, sector-specific variations will need to be created, using 
+similar language and branding. Such a code should include the need to 
+have considered the establishment of ethical advisory boards in 
+companies or organisations which are developing, or using, AI in their 
+work. In time, the AI code could provide the basis for statutory 
+regulation, if and when this is determined to be necessary. (Paragraph 
+420) 
+
+116. Throughout Government’s response, recommendations that concern the 
+
+Centre for Data Ethics and Innovation have either been answered in part or 
+omitted. The explanation for this follows. 
+ 
+
+117. The Government welcomes the recommendations made on the Centre for 
+
+Data Ethics and Innovation and its work. The Government is in the process of 
+setting up the Centre and will be launching a consultation soon on its role, 
+objectives and activities. The Select Committee’s Report and its 
+recommendations on the Centre will make an invaluable contribution to both 
+the development of the Centre and its initial work programme. 
+ 
+
+118. There are a number of high level themes emerging around the ethical and 
+
+innovative uses of data and AI, some of which are highlighted within the 
+Committee’s report. Many of these are not inherently new or unique, but are 
+being amplified through the use of data-driven and AI-based technologies. 
+ 
+
+40 
+
+ 
+
+ 
+
+ 
+
+119. The Centre will identify the measures needed to strengthen and improve the 
+
+way data and AI is used. It will operate by drawing on evidence and insights 
+from across regulators, academia, the public and business and translate 
+these into actions that deliver direct, real world impact on the way that data 
+and AI is used. Following the public consultation in the summer, the Centre, in 
+dialogue with the Government will carefully prioritise and scope the specific 
+projects within its work programme. 
+ 
+
+ 
+
+ 
+
+41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+CCS0618948288 
+978-1-5286-0607-3 
+
+42 
+
+
