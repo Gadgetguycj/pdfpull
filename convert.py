@@ -13,15 +13,27 @@ rough_decode = False #Reliable but innaurate results (Reccomend False)
 #PARAMETERS - A list of configurable paramaters for cleaning up text
 parameters = True #Globally enables or disables parameters
 clean_nextline = True #Attempts to catch unnecessary nextlines
-clean_compact = True #Makes text more dense and compact
+clean_compact = False #Makes text more dense and compact
+clean_junkchar = True # Tries to remove characters labled as junk based on formatting patterns
 
 #Cleans up text by applying a series of rulesets
 def TEXT_FORMAT(text):
     if(parameters):
+        if(clean_junkchar):
+            #Remove Junk Bullets
+            text = text.replace("•\n", "")
+            #Remove single letter text
+            text = text.replace("\n", "")
+            text = text.replace("[a-z]\n[a-z]\n", "")
+            #Remove Numbers for graphs
+            #text = text.replace("[a-z]\n[a-z]\n", "")
+            
+
         if(clean_nextline):
             text = text.replace("\n\n\n", "\n\n")
         if(clean_compact):
             text = text.replace("\n\n", "\n")
+
     return text
 
 #Reads from directory and converts a pdf to text
