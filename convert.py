@@ -6,6 +6,7 @@ from pdfminer.pdfpage import PDFPage
 from io import StringIO
 import PyPDF2
 import os
+import re
 
 #SETTINGS
 rough_decode = False #Reliable but innaurate results (Reccomend False)
@@ -13,27 +14,37 @@ rough_decode = False #Reliable but innaurate results (Reccomend False)
 #PARAMETERS - A list of configurable paramaters for cleaning up text
 parameters = True #Globally enables or disables parameters
 clean_nextline = True #Attempts to catch unnecessary nextlines
-clean_compact = False #Makes text more dense and compact
 clean_junkchar = True # Tries to remove characters labled as junk based on formatting patterns
 
 #Cleans up text by applying a series of rulesets
 def TEXT_FORMAT(text):
+    cut_text=""
     if(parameters):
+        #Remove Junk Characters
         if(clean_junkchar):
+            #print(text.encode('utf8'))
+
+            #Remove lines that are just numbers 
+            text = re.sub("\n *[\d\.,]{1,20} *","",text)
+            
+            #Junk Characters
+            text = re.sub("[\n *\w *]\1","",text)
+            
             #Remove Junk Bullets
-            text = text.replace("•\n", "")
+            #text = text.replace("•\n", "")
             #Remove single letter text
-            text = text.replace("\n", "")
-            text = text.replace("[a-z]\n[a-z]\n", "")
+            #text = text.replace("", "•")
+            #text = text.replace("[a-z]\n[a-z]\n", "")
             #Remove Numbers for graphs
             #text = text.replace("[a-z]\n[a-z]\n", "")
+            #text = text.replace("\n[a-z]", "")
             
-
+        #Excess newlines
         if(clean_nextline):
-            text = text.replace("\n\n\n", "\n\n")
-        if(clean_compact):
-            text = text.replace("\n\n", "\n")
-
+           text = re.sub("\n{2,}","\n",text)
+           
+        
+        print(text.encode('utf8'))
     return text
 
 #Reads from directory and converts a pdf to text
