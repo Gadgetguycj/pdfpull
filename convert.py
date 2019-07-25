@@ -22,29 +22,27 @@ def TEXT_FORMAT(text):
     if(parameters):
         #Remove Junk Characters
         if(clean_junkchar):
-            #print(text.encode('utf8'))
+            print(text.encode('utf8'))
 
             #Remove lines that are just numbers 
-            text = re.sub("\n *[\d\.,]{1,20} *","",text)
+            text = re.sub("\n *[\d\.,]{1,20} *\n","",text)
             
-            #Junk Characters
-            text = re.sub("[\n *\w *]\1","",text)
-            
-            #Remove Junk Bullets
-            #text = text.replace("•\n", "")
-            #Remove single letter text
-            #text = text.replace("", "•")
-            #text = text.replace("[a-z]\n[a-z]\n", "")
-            #Remove Numbers for graphs
-            #text = text.replace("[a-z]\n[a-z]\n", "")
-            #text = text.replace("\n[a-z]", "")
-            
-        #Excess newlines
+            #Remove lines with one character
+            text = re.sub("\n\w\n","",text)
+            #Junk Characters taking up an entire line
+            text = re.sub("\n• *\n","",text)
+
+            #Remove characters taking up a line
+            text = re.sub("[]","",text)
+
+            #Extra Spaces
+            #text = re.sub("\n {4,}","\n    ",text)
+            #\n[\w] *\n
+
+        #Excess newlines cleanup at the end
         if(clean_nextline):
-           text = re.sub("\n{2,}","\n",text)
-           
-        
-        print(text.encode('utf8'))
+           text = re.sub("(\n *){3,}","\n\n",text)
+
     return text
 
 #Reads from directory and converts a pdf to text
